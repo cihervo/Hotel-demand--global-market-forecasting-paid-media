@@ -1,0 +1,1753 @@
+booking_id,hotel_name,source_market,booking_date,checkin_date,booking_window_days,revenue_usd
+HMPP-10001,Hotel Modelo Python Panamá,Colombia,2025-08-29,2025-10-25,57,1072.18
+HMPP-10002,Hotel Modelo Python Panamá,Colombia,2025-09-06,2025-10-28,52,1181.21
+HMPP-10003,Hotel Modelo Python Panamá,Colombia,2025-09-12,2025-10-30,48,1164.57
+HMPP-10004,Hotel Modelo Python Panamá,Colombia,2025-09-13,2025-11-01,49,1338.89
+HMPP-10005,Hotel Modelo Python Panamá,Colombia,2025-09-14,2025-10-26,42,1196.84
+HMPP-10006,Hotel Modelo Python Panamá,Colombia,2025-09-17,2025-10-30,43,1215.83
+HMPP-10007,Hotel Modelo Python Panamá,USA,2025-09-20,2025-11-06,47,830.83
+HMPP-10008,Hotel Modelo Python Panamá,USA,2025-09-20,2025-11-17,58,1085.44
+HMPP-10009,Hotel Modelo Python Panamá,USA,2025-09-23,2025-11-19,57,979.55
+HMPP-10010,Hotel Modelo Python Panamá,USA,2025-09-24,2025-10-31,37,1015.5
+HMPP-10011,Hotel Modelo Python Panamá,Colombia,2025-09-26,2025-11-16,51,1500.64
+HMPP-10012,Hotel Modelo Python Panamá,USA,2025-09-26,2025-11-17,52,1037.58
+HMPP-10013,Hotel Modelo Python Panamá,Colombia,2025-09-27,2025-11-04,38,1170.87
+HMPP-10014,Hotel Modelo Python Panamá,USA,2025-09-29,2025-11-21,53,892.5
+HMPP-10015,Hotel Modelo Python Panamá,Colombia,2025-10-01,2025-11-10,40,1118.05
+HMPP-10016,Hotel Modelo Python Panamá,Colombia,2025-10-04,2025-12-03,60,1203.76
+HMPP-10017,Hotel Modelo Python Panamá,Colombia,2025-10-05,2025-11-08,34,1325.3
+HMPP-10018,Hotel Modelo Python Panamá,Colombia,2025-10-06,2025-12-03,58,1319.23
+HMPP-10019,Hotel Modelo Python Panamá,Colombia,2025-10-07,2025-12-04,58,1152.51
+HMPP-10020,Hotel Modelo Python Panamá,USA,2025-10-07,2025-11-03,27,1146.48
+HMPP-10021,Hotel Modelo Python Panamá,Colombia,2025-10-07,2025-12-03,57,1209.66
+HMPP-10022,Hotel Modelo Python Panamá,Panama (Local),2025-10-08,2025-10-26,18,469.54
+HMPP-10023,Hotel Modelo Python Panamá,Colombia,2025-10-09,2025-11-30,52,1103.07
+HMPP-10024,Hotel Modelo Python Panamá,Panama (Local),2025-10-10,2025-10-29,19,439.22
+HMPP-10025,Hotel Modelo Python Panamá,Panama (Local),2025-10-11,2025-10-29,18,485.61
+HMPP-10026,Hotel Modelo Python Panamá,Panama (Local),2025-10-11,2025-10-27,16,387.9
+HMPP-10027,Hotel Modelo Python Panamá,Panama (Local),2025-10-11,2025-10-30,19,464.71
+HMPP-10028,Hotel Modelo Python Panamá,USA,2025-10-11,2025-12-04,54,820.57
+HMPP-10029,Hotel Modelo Python Panamá,Panama (Local),2025-10-12,2025-10-26,14,422.05
+HMPP-10030,Hotel Modelo Python Panamá,Colombia,2025-10-12,2025-12-05,54,1298.31
+HMPP-10031,Hotel Modelo Python Panamá,USA,2025-10-12,2025-11-19,38,1016.77
+HMPP-10032,Hotel Modelo Python Panamá,Colombia,2025-10-13,2025-12-05,53,1348.3
+HMPP-10033,Hotel Modelo Python Panamá,Panama (Local),2025-10-13,2025-10-30,17,433.13
+HMPP-10034,Hotel Modelo Python Panamá,Colombia,2025-10-14,2025-12-01,48,1190.76
+HMPP-10035,Hotel Modelo Python Panamá,Panama (Local),2025-10-15,2025-11-01,17,587.26
+HMPP-10036,Hotel Modelo Python Panamá,Colombia,2025-10-15,2025-11-27,43,1197.6
+HMPP-10037,Hotel Modelo Python Panamá,Colombia,2025-10-16,2025-11-20,35,1259.38
+HMPP-10038,Hotel Modelo Python Panamá,Panama (Local),2025-10-16,2025-11-04,19,452.69
+HMPP-10039,Hotel Modelo Python Panamá,Colombia,2025-10-16,2025-11-16,31,1168.16
+HMPP-10040,Hotel Modelo Python Panamá,Panama (Local),2025-10-16,2025-11-04,19,428.32
+HMPP-10041,Hotel Modelo Python Panamá,Panama (Local),2025-10-16,2025-11-02,17,440.01
+HMPP-10042,Hotel Modelo Python Panamá,USA,2025-10-17,2025-12-07,51,930.5
+HMPP-10043,Hotel Modelo Python Panamá,USA,2025-10-17,2025-12-08,52,1078.07
+HMPP-10044,Hotel Modelo Python Panamá,Panama (Local),2025-10-17,2025-11-03,17,502.28
+HMPP-10045,Hotel Modelo Python Panamá,Panama (Local),2025-10-17,2025-11-05,19,379.32
+HMPP-10046,Hotel Modelo Python Panamá,Panama (Local),2025-10-18,2025-11-04,17,380.16
+HMPP-10047,Hotel Modelo Python Panamá,Panama (Local),2025-10-18,2025-11-05,18,422.43
+HMPP-10048,Hotel Modelo Python Panamá,Panama (Local),2025-10-18,2025-11-03,16,497.0
+HMPP-10049,Hotel Modelo Python Panamá,Panama (Local),2025-10-18,2025-11-05,18,479.13
+HMPP-10050,Hotel Modelo Python Panamá,Panama (Local),2025-10-18,2025-11-01,14,504.5
+HMPP-10051,Hotel Modelo Python Panamá,Panama (Local),2025-10-19,2025-10-27,8,471.12
+HMPP-10052,Hotel Modelo Python Panamá,Colombia,2025-10-19,2025-12-16,58,1225.0
+HMPP-10053,Hotel Modelo Python Panamá,Colombia,2025-10-19,2025-12-10,52,1302.27
+HMPP-10054,Hotel Modelo Python Panamá,Colombia,2025-10-19,2025-12-09,51,1189.16
+HMPP-10055,Hotel Modelo Python Panamá,Panama (Local),2025-10-19,2025-11-03,15,428.91
+HMPP-10056,Hotel Modelo Python Panamá,Panama (Local),2025-10-19,2025-11-05,17,349.19
+HMPP-10057,Hotel Modelo Python Panamá,Panama (Local),2025-10-19,2025-11-06,18,473.83
+HMPP-10058,Hotel Modelo Python Panamá,Panama (Local),2025-10-19,2025-11-02,14,468.34
+HMPP-10059,Hotel Modelo Python Panamá,Panama (Local),2025-10-20,2025-11-06,17,501.06
+HMPP-10060,Hotel Modelo Python Panamá,Panama (Local),2025-10-20,2025-11-02,13,490.13
+HMPP-10061,Hotel Modelo Python Panamá,Panama (Local),2025-10-20,2025-11-02,13,422.74
+HMPP-10062,Hotel Modelo Python Panamá,Panama (Local),2025-10-21,2025-11-01,11,396.35
+HMPP-10063,Hotel Modelo Python Panamá,Panama (Local),2025-10-22,2025-11-07,16,432.72
+HMPP-10064,Hotel Modelo Python Panamá,USA,2025-10-22,2025-12-17,56,1040.21
+HMPP-10065,Hotel Modelo Python Panamá,Panama (Local),2025-10-23,2025-11-04,12,523.84
+HMPP-10066,Hotel Modelo Python Panamá,Colombia,2025-10-23,2025-11-21,29,1142.28
+HMPP-10067,Hotel Modelo Python Panamá,Panama (Local),2025-10-23,2025-10-26,3,414.0
+HMPP-10068,Hotel Modelo Python Panamá,Colombia,2025-10-23,2025-11-23,31,1287.08
+HMPP-10069,Hotel Modelo Python Panamá,Panama (Local),2025-10-24,2025-11-01,8,429.18
+HMPP-10070,Hotel Modelo Python Panamá,Panama (Local),2025-10-24,2025-11-11,18,448.39
+HMPP-10071,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-13,19,384.43
+HMPP-10072,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-07,13,533.35
+HMPP-10073,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-08,14,442.16
+HMPP-10074,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-03,9,496.36
+HMPP-10075,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-08,14,479.03
+HMPP-10076,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-10-27,2,493.06
+HMPP-10077,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-12,18,445.02
+HMPP-10078,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-05,11,413.53
+HMPP-10079,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-05,11,433.38
+HMPP-10080,Hotel Modelo Python Panamá,Panama (Local),2025-10-25,2025-11-03,9,523.38
+HMPP-10081,Hotel Modelo Python Panamá,Panama (Local),2025-10-26,2025-11-03,8,460.18
+HMPP-10082,Hotel Modelo Python Panamá,Panama (Local),2025-10-26,2025-11-06,11,437.16
+HMPP-10083,Hotel Modelo Python Panamá,Panama (Local),2025-10-26,2025-11-03,8,499.18
+HMPP-10084,Hotel Modelo Python Panamá,USA,2025-10-26,2025-12-11,46,1114.01
+HMPP-10085,Hotel Modelo Python Panamá,Panama (Local),2025-10-26,2025-10-31,5,445.04
+HMPP-10086,Hotel Modelo Python Panamá,Panama (Local),2025-10-26,2025-11-05,10,424.01
+HMPP-10087,Hotel Modelo Python Panamá,Panama (Local),2025-10-26,2025-11-07,12,357.07
+HMPP-10088,Hotel Modelo Python Panamá,Panama (Local),2025-10-26,2025-11-12,17,465.85
+HMPP-10089,Hotel Modelo Python Panamá,Panama (Local),2025-10-27,2025-11-05,9,519.07
+HMPP-10090,Hotel Modelo Python Panamá,Panama (Local),2025-10-27,2025-10-30,3,386.57
+HMPP-10091,Hotel Modelo Python Panamá,Panama (Local),2025-10-27,2025-11-08,12,395.43
+HMPP-10092,Hotel Modelo Python Panamá,Panama (Local),2025-10-27,2025-11-14,18,450.86
+HMPP-10093,Hotel Modelo Python Panamá,Panama (Local),2025-10-27,2025-11-02,6,394.91
+HMPP-10094,Hotel Modelo Python Panamá,USA,2025-10-28,2025-11-26,29,939.31
+HMPP-10095,Hotel Modelo Python Panamá,Panama (Local),2025-10-28,2025-11-03,6,414.09
+HMPP-10096,Hotel Modelo Python Panamá,Panama (Local),2025-10-28,2025-10-31,3,495.16
+HMPP-10097,Hotel Modelo Python Panamá,Panama (Local),2025-10-28,2025-10-30,2,457.68
+HMPP-10098,Hotel Modelo Python Panamá,Panama (Local),2025-10-28,2025-11-05,8,434.64
+HMPP-10099,Hotel Modelo Python Panamá,Panama (Local),2025-10-28,2025-11-15,18,542.92
+HMPP-10100,Hotel Modelo Python Panamá,Panama (Local),2025-10-28,2025-11-07,10,407.75
+HMPP-10101,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-05,7,445.34
+HMPP-10102,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-06,8,521.41
+HMPP-10103,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-10-30,1,505.86
+HMPP-10104,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-02,4,438.86
+HMPP-10105,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-03,5,486.28
+HMPP-10106,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-01,3,464.93
+HMPP-10107,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-15,17,464.49
+HMPP-10108,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-12,14,432.66
+HMPP-10109,Hotel Modelo Python Panamá,Panama (Local),2025-10-29,2025-11-11,13,446.63
+HMPP-10110,Hotel Modelo Python Panamá,Panama (Local),2025-10-30,2025-11-14,15,449.14
+HMPP-10111,Hotel Modelo Python Panamá,Panama (Local),2025-10-30,2025-11-02,3,471.4
+HMPP-10112,Hotel Modelo Python Panamá,USA,2025-10-30,2025-12-15,46,1064.89
+HMPP-10113,Hotel Modelo Python Panamá,Panama (Local),2025-10-30,2025-11-08,9,436.47
+HMPP-10114,Hotel Modelo Python Panamá,USA,2025-10-30,2025-11-28,29,1203.58
+HMPP-10115,Hotel Modelo Python Panamá,Panama (Local),2025-10-30,2025-11-18,19,501.46
+HMPP-10116,Hotel Modelo Python Panamá,Panama (Local),2025-10-30,2025-11-10,11,486.87
+HMPP-10117,Hotel Modelo Python Panamá,Panama (Local),2025-10-30,2025-11-16,17,478.58
+HMPP-10118,Hotel Modelo Python Panamá,Colombia,2025-10-31,2025-12-08,38,1452.62
+HMPP-10119,Hotel Modelo Python Panamá,Panama (Local),2025-10-31,2025-11-06,6,561.32
+HMPP-10120,Hotel Modelo Python Panamá,USA,2025-10-31,2025-12-02,32,1128.26
+HMPP-10121,Hotel Modelo Python Panamá,Panama (Local),2025-10-31,2025-11-18,18,437.83
+HMPP-10122,Hotel Modelo Python Panamá,Panama (Local),2025-10-31,2025-11-04,4,406.32
+HMPP-10123,Hotel Modelo Python Panamá,Panama (Local),2025-10-31,2025-11-08,8,439.87
+HMPP-10124,Hotel Modelo Python Panamá,Panama (Local),2025-10-31,2025-11-06,6,470.65
+HMPP-10125,Hotel Modelo Python Panamá,Panama (Local),2025-11-01,2025-11-09,8,397.05
+HMPP-10126,Hotel Modelo Python Panamá,Panama (Local),2025-11-01,2025-11-11,10,474.48
+HMPP-10127,Hotel Modelo Python Panamá,Panama (Local),2025-11-01,2025-11-13,12,432.62
+HMPP-10128,Hotel Modelo Python Panamá,Panama (Local),2025-11-01,2025-11-04,3,494.76
+HMPP-10129,Hotel Modelo Python Panamá,Panama (Local),2025-11-01,2025-11-06,5,512.39
+HMPP-10130,Hotel Modelo Python Panamá,Colombia,2025-11-01,2025-12-22,51,1031.69
+HMPP-10131,Hotel Modelo Python Panamá,Panama (Local),2025-11-01,2025-11-18,17,511.6
+HMPP-10132,Hotel Modelo Python Panamá,Panama (Local),2025-11-01,2025-11-07,6,398.44
+HMPP-10133,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-10,8,503.08
+HMPP-10134,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-20,18,336.71
+HMPP-10135,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-08,6,462.56
+HMPP-10136,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-17,15,522.53
+HMPP-10137,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-17,15,462.97
+HMPP-10138,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-14,12,441.73
+HMPP-10139,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-18,16,441.61
+HMPP-10140,Hotel Modelo Python Panamá,Panama (Local),2025-11-02,2025-11-04,2,425.04
+HMPP-10141,Hotel Modelo Python Panamá,USA,2025-11-02,2025-12-13,41,996.11
+HMPP-10142,Hotel Modelo Python Panamá,Panama (Local),2025-11-03,2025-11-13,10,432.49
+HMPP-10143,Hotel Modelo Python Panamá,Panama (Local),2025-11-03,2025-11-22,19,373.07
+HMPP-10144,Hotel Modelo Python Panamá,Panama (Local),2025-11-03,2025-11-15,12,508.95
+HMPP-10145,Hotel Modelo Python Panamá,Panama (Local),2025-11-03,2025-11-07,4,487.66
+HMPP-10146,Hotel Modelo Python Panamá,Panama (Local),2025-11-03,2025-11-19,16,452.87
+HMPP-10147,Hotel Modelo Python Panamá,Panama (Local),2025-11-03,2025-11-18,15,457.55
+HMPP-10148,Hotel Modelo Python Panamá,Panama (Local),2025-11-03,2025-11-16,13,460.93
+HMPP-10149,Hotel Modelo Python Panamá,Panama (Local),2025-11-04,2025-11-07,3,443.89
+HMPP-10150,Hotel Modelo Python Panamá,Colombia,2025-11-04,2025-12-05,31,1071.61
+HMPP-10151,Hotel Modelo Python Panamá,Panama (Local),2025-11-04,2025-11-22,18,453.01
+HMPP-10152,Hotel Modelo Python Panamá,Panama (Local),2025-11-04,2025-11-08,4,484.85
+HMPP-10153,Hotel Modelo Python Panamá,Panama (Local),2025-11-04,2025-11-20,16,371.17
+HMPP-10154,Hotel Modelo Python Panamá,Panama (Local),2025-11-04,2025-11-17,13,418.31
+HMPP-10155,Hotel Modelo Python Panamá,Panama (Local),2025-11-04,2025-11-21,17,493.12
+HMPP-10156,Hotel Modelo Python Panamá,Panama (Local),2025-11-05,2025-11-21,16,399.32
+HMPP-10157,Hotel Modelo Python Panamá,Panama (Local),2025-11-05,2025-11-10,5,428.46
+HMPP-10158,Hotel Modelo Python Panamá,USA,2025-11-05,2025-12-14,39,933.08
+HMPP-10159,Hotel Modelo Python Panamá,Panama (Local),2025-11-05,2025-11-13,8,441.2
+HMPP-10160,Hotel Modelo Python Panamá,USA,2025-11-05,2025-12-12,37,955.0
+HMPP-10161,Hotel Modelo Python Panamá,Panama (Local),2025-11-05,2025-11-06,1,439.06
+HMPP-10162,Hotel Modelo Python Panamá,Panama (Local),2025-11-05,2025-11-20,15,510.38
+HMPP-10163,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-15,9,467.73
+HMPP-10164,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-22,16,462.46
+HMPP-10165,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-19,13,477.41
+HMPP-10166,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-07,1,403.51
+HMPP-10167,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-25,19,358.54
+HMPP-10168,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-07,1,421.95
+HMPP-10169,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-23,17,413.31
+HMPP-10170,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-15,9,468.91
+HMPP-10171,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-08,2,513.85
+HMPP-10172,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-23,17,524.86
+HMPP-10173,Hotel Modelo Python Panamá,Panama (Local),2025-11-06,2025-11-10,4,559.37
+HMPP-10174,Hotel Modelo Python Panamá,Panama (Local),2025-11-07,2025-11-24,17,446.61
+HMPP-10175,Hotel Modelo Python Panamá,Panama (Local),2025-11-07,2025-11-16,9,449.61
+HMPP-10176,Hotel Modelo Python Panamá,Panama (Local),2025-11-07,2025-11-11,4,452.9
+HMPP-10177,Hotel Modelo Python Panamá,Colombia,2025-11-07,2025-12-30,53,1442.93
+HMPP-10178,Hotel Modelo Python Panamá,Panama (Local),2025-11-07,2025-11-16,9,437.72
+HMPP-10179,Hotel Modelo Python Panamá,Panama (Local),2025-11-07,2025-11-11,4,457.91
+HMPP-10180,Hotel Modelo Python Panamá,Colombia,2025-11-08,2026-01-03,56,1191.52
+HMPP-10181,Hotel Modelo Python Panamá,Panama (Local),2025-11-08,2025-11-09,1,418.63
+HMPP-10182,Hotel Modelo Python Panamá,Panama (Local),2025-11-08,2025-11-27,19,529.12
+HMPP-10183,Hotel Modelo Python Panamá,Panama (Local),2025-11-08,2025-11-26,18,476.43
+HMPP-10184,Hotel Modelo Python Panamá,USA,2025-11-08,2026-01-04,57,955.96
+HMPP-10185,Hotel Modelo Python Panamá,Panama (Local),2025-11-08,2025-11-13,5,485.2
+HMPP-10186,Hotel Modelo Python Panamá,Panama (Local),2025-11-08,2025-11-16,8,415.51
+HMPP-10187,Hotel Modelo Python Panamá,Colombia,2025-11-08,2026-01-04,57,1061.21
+HMPP-10188,Hotel Modelo Python Panamá,Colombia,2025-11-08,2025-12-27,49,1283.47
+HMPP-10189,Hotel Modelo Python Panamá,Colombia,2025-11-08,2025-12-12,34,1151.41
+HMPP-10190,Hotel Modelo Python Panamá,Panama (Local),2025-11-08,2025-11-10,2,462.51
+HMPP-10191,Hotel Modelo Python Panamá,Panama (Local),2025-11-08,2025-11-11,3,517.4
+HMPP-10192,Hotel Modelo Python Panamá,Panama (Local),2025-11-09,2025-11-15,6,365.22
+HMPP-10193,Hotel Modelo Python Panamá,Panama (Local),2025-11-09,2025-11-13,4,447.22
+HMPP-10194,Hotel Modelo Python Panamá,Colombia,2025-11-09,2026-01-05,57,1234.52
+HMPP-10195,Hotel Modelo Python Panamá,Colombia,2025-11-09,2025-12-23,44,1321.19
+HMPP-10196,Hotel Modelo Python Panamá,Panama (Local),2025-11-09,2025-11-24,15,382.62
+HMPP-10197,Hotel Modelo Python Panamá,Panama (Local),2025-11-09,2025-11-25,16,432.8
+HMPP-10198,Hotel Modelo Python Panamá,Panama (Local),2025-11-09,2025-11-18,9,432.3
+HMPP-10199,Hotel Modelo Python Panamá,Colombia,2025-11-09,2025-12-23,44,1107.5
+HMPP-10200,Hotel Modelo Python Panamá,Panama (Local),2025-11-10,2025-11-24,14,366.54
+HMPP-10201,Hotel Modelo Python Panamá,Panama (Local),2025-11-10,2025-11-20,10,422.93
+HMPP-10202,Hotel Modelo Python Panamá,Panama (Local),2025-11-10,2025-11-20,10,409.33
+HMPP-10203,Hotel Modelo Python Panamá,Panama (Local),2025-11-10,2025-11-26,16,398.01
+HMPP-10204,Hotel Modelo Python Panamá,Panama (Local),2025-11-10,2025-11-20,10,411.61
+HMPP-10205,Hotel Modelo Python Panamá,Panama (Local),2025-11-10,2025-11-17,7,477.39
+HMPP-10206,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-20,9,492.43
+HMPP-10207,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-14,3,497.66
+HMPP-10208,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-17,6,434.82
+HMPP-10209,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-18,7,500.97
+HMPP-10210,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-19,8,473.94
+HMPP-10211,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-29,18,510.47
+HMPP-10212,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-21,10,393.17
+HMPP-10213,Hotel Modelo Python Panamá,Colombia,2025-11-11,2025-12-25,44,1164.92
+HMPP-10214,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-27,16,465.61
+HMPP-10215,Hotel Modelo Python Panamá,Panama (Local),2025-11-11,2025-11-19,8,455.97
+HMPP-10216,Hotel Modelo Python Panamá,Panama (Local),2025-11-12,2025-11-27,15,433.15
+HMPP-10217,Hotel Modelo Python Panamá,Colombia,2025-11-12,2026-01-10,59,1215.69
+HMPP-10218,Hotel Modelo Python Panamá,Colombia,2025-11-12,2025-12-10,28,1233.16
+HMPP-10219,Hotel Modelo Python Panamá,Panama (Local),2025-11-12,2025-12-01,19,499.63
+HMPP-10220,Hotel Modelo Python Panamá,Panama (Local),2025-11-12,2025-11-22,10,447.12
+HMPP-10221,Hotel Modelo Python Panamá,Panama (Local),2025-11-12,2025-11-20,8,486.01
+HMPP-10222,Hotel Modelo Python Panamá,Panama (Local),2025-11-12,2025-11-24,12,480.7
+HMPP-10223,Hotel Modelo Python Panamá,Panama (Local),2025-11-12,2025-11-17,5,386.61
+HMPP-10224,Hotel Modelo Python Panamá,Panama (Local),2025-11-12,2025-11-20,8,526.24
+HMPP-10225,Hotel Modelo Python Panamá,Panama (Local),2025-11-13,2025-12-02,19,447.54
+HMPP-10226,Hotel Modelo Python Panamá,Panama (Local),2025-11-13,2025-11-15,2,444.0
+HMPP-10227,Hotel Modelo Python Panamá,Panama (Local),2025-11-13,2025-11-15,2,430.67
+HMPP-10228,Hotel Modelo Python Panamá,Panama (Local),2025-11-13,2025-11-25,12,458.42
+HMPP-10229,Hotel Modelo Python Panamá,Panama (Local),2025-11-13,2025-11-18,5,365.72
+HMPP-10230,Hotel Modelo Python Panamá,Panama (Local),2025-11-13,2025-11-14,1,463.01
+HMPP-10231,Hotel Modelo Python Panamá,Panama (Local),2025-11-13,2025-11-17,4,403.62
+HMPP-10232,Hotel Modelo Python Panamá,USA,2025-11-13,2025-12-23,40,847.22
+HMPP-10233,Hotel Modelo Python Panamá,Panama (Local),2025-11-14,2025-11-27,13,461.67
+HMPP-10234,Hotel Modelo Python Panamá,Panama (Local),2025-11-14,2025-11-27,13,428.5
+HMPP-10235,Hotel Modelo Python Panamá,Colombia,2025-11-14,2025-12-31,47,1201.68
+HMPP-10236,Hotel Modelo Python Panamá,Panama (Local),2025-11-14,2025-11-23,9,535.22
+HMPP-10237,Hotel Modelo Python Panamá,Colombia,2025-11-14,2026-01-05,52,1034.36
+HMPP-10238,Hotel Modelo Python Panamá,USA,2025-11-14,2025-12-24,40,794.88
+HMPP-10239,Hotel Modelo Python Panamá,Panama (Local),2025-11-14,2025-11-16,2,454.97
+HMPP-10240,Hotel Modelo Python Panamá,Panama (Local),2025-11-15,2025-11-27,12,475.05
+HMPP-10241,Hotel Modelo Python Panamá,Panama (Local),2025-11-15,2025-11-27,12,380.99
+HMPP-10242,Hotel Modelo Python Panamá,Panama (Local),2025-11-15,2025-11-16,1,438.09
+HMPP-10243,Hotel Modelo Python Panamá,Panama (Local),2025-11-15,2025-12-02,17,451.59
+HMPP-10244,Hotel Modelo Python Panamá,Panama (Local),2025-11-15,2025-11-18,3,391.09
+HMPP-10245,Hotel Modelo Python Panamá,Panama (Local),2025-11-15,2025-11-19,4,456.02
+HMPP-10246,Hotel Modelo Python Panamá,Panama (Local),2025-11-15,2025-11-21,6,375.46
+HMPP-10247,Hotel Modelo Python Panamá,USA,2025-11-16,2025-12-11,25,1171.02
+HMPP-10248,Hotel Modelo Python Panamá,Panama (Local),2025-11-16,2025-11-27,11,426.5
+HMPP-10249,Hotel Modelo Python Panamá,Panama (Local),2025-11-16,2025-11-29,13,495.9
+HMPP-10250,Hotel Modelo Python Panamá,Panama (Local),2025-11-16,2025-11-17,1,387.4
+HMPP-10251,Hotel Modelo Python Panamá,Panama (Local),2025-11-16,2025-12-02,16,479.15
+HMPP-10252,Hotel Modelo Python Panamá,Panama (Local),2025-11-17,2025-11-24,7,479.43
+HMPP-10253,Hotel Modelo Python Panamá,Colombia,2025-11-17,2026-01-07,51,1163.32
+HMPP-10254,Hotel Modelo Python Panamá,Panama (Local),2025-11-17,2025-11-30,13,417.2
+HMPP-10255,Hotel Modelo Python Panamá,Panama (Local),2025-11-17,2025-11-29,12,476.95
+HMPP-10256,Hotel Modelo Python Panamá,Panama (Local),2025-11-18,2025-11-19,1,477.02
+HMPP-10257,Hotel Modelo Python Panamá,Panama (Local),2025-11-18,2025-12-02,14,448.26
+HMPP-10258,Hotel Modelo Python Panamá,Panama (Local),2025-11-18,2025-11-25,7,433.47
+HMPP-10259,Hotel Modelo Python Panamá,Panama (Local),2025-11-18,2025-11-28,10,424.9
+HMPP-10260,Hotel Modelo Python Panamá,Panama (Local),2025-11-18,2025-12-06,18,450.55
+HMPP-10261,Hotel Modelo Python Panamá,Colombia,2025-11-18,2025-12-21,33,1174.54
+HMPP-10262,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-12-08,19,439.33
+HMPP-10263,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-11-30,11,426.96
+HMPP-10264,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-11-27,8,372.25
+HMPP-10265,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-12-04,15,412.46
+HMPP-10266,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-11-28,9,436.88
+HMPP-10267,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-12-08,19,501.16
+HMPP-10268,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-11-29,10,374.41
+HMPP-10269,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-12-08,19,496.89
+HMPP-10270,Hotel Modelo Python Panamá,Panama (Local),2025-11-19,2025-11-25,6,466.66
+HMPP-10271,Hotel Modelo Python Panamá,Panama (Local),2025-11-20,2025-11-30,10,437.73
+HMPP-10272,Hotel Modelo Python Panamá,Panama (Local),2025-11-20,2025-11-26,6,411.23
+HMPP-10273,Hotel Modelo Python Panamá,Panama (Local),2025-11-20,2025-12-08,18,402.11
+HMPP-10274,Hotel Modelo Python Panamá,Colombia,2025-11-20,2026-01-03,44,1222.2
+HMPP-10275,Hotel Modelo Python Panamá,Panama (Local),2025-11-20,2025-11-22,2,478.96
+HMPP-10276,Hotel Modelo Python Panamá,Panama (Local),2025-11-20,2025-11-23,3,440.15
+HMPP-10277,Hotel Modelo Python Panamá,Panama (Local),2025-11-20,2025-11-23,3,395.24
+HMPP-10278,Hotel Modelo Python Panamá,Panama (Local),2025-11-20,2025-11-26,6,427.69
+HMPP-10279,Hotel Modelo Python Panamá,Panama (Local),2025-11-21,2025-11-25,4,418.45
+HMPP-10280,Hotel Modelo Python Panamá,Panama (Local),2025-11-21,2025-11-26,5,467.74
+HMPP-10281,Hotel Modelo Python Panamá,Panama (Local),2025-11-21,2025-11-25,4,442.9
+HMPP-10282,Hotel Modelo Python Panamá,Panama (Local),2025-11-21,2025-11-26,5,436.04
+HMPP-10283,Hotel Modelo Python Panamá,Panama (Local),2025-11-21,2025-12-06,15,505.4
+HMPP-10284,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-01,9,420.06
+HMPP-10285,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-08,16,500.93
+HMPP-10286,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-11-29,7,464.23
+HMPP-10287,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-05,13,487.2
+HMPP-10288,Hotel Modelo Python Panamá,Colombia,2025-11-22,2026-01-14,53,1254.69
+HMPP-10289,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-04,12,457.99
+HMPP-10290,Hotel Modelo Python Panamá,USA,2025-11-22,2025-12-29,37,893.07
+HMPP-10291,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-07,15,375.17
+HMPP-10292,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-09,17,450.91
+HMPP-10293,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-10,18,383.47
+HMPP-10294,Hotel Modelo Python Panamá,Panama (Local),2025-11-22,2025-12-01,9,451.84
+HMPP-10295,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-12-10,17,468.05
+HMPP-10296,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-11-26,3,504.12
+HMPP-10297,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-12-06,13,505.55
+HMPP-10298,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-11-25,2,468.07
+HMPP-10299,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-12-05,12,428.56
+HMPP-10300,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-12-02,9,412.83
+HMPP-10301,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-12-06,13,536.61
+HMPP-10302,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-12-02,9,472.41
+HMPP-10303,Hotel Modelo Python Panamá,Panama (Local),2025-11-23,2025-11-29,6,432.77
+HMPP-10304,Hotel Modelo Python Panamá,Panama (Local),2025-11-24,2025-12-11,17,496.8
+HMPP-10305,Hotel Modelo Python Panamá,Panama (Local),2025-11-24,2025-12-11,17,410.95
+HMPP-10306,Hotel Modelo Python Panamá,Panama (Local),2025-11-24,2025-12-09,15,433.09
+HMPP-10307,Hotel Modelo Python Panamá,Panama (Local),2025-11-24,2025-11-26,2,424.69
+HMPP-10308,Hotel Modelo Python Panamá,Colombia,2025-11-25,2025-12-20,25,918.15
+HMPP-10309,Hotel Modelo Python Panamá,Panama (Local),2025-11-25,2025-12-13,18,544.18
+HMPP-10310,Hotel Modelo Python Panamá,Panama (Local),2025-11-25,2025-12-04,9,360.33
+HMPP-10311,Hotel Modelo Python Panamá,Panama (Local),2025-11-25,2025-11-29,4,434.38
+HMPP-10312,Hotel Modelo Python Panamá,Colombia,2025-11-25,2026-01-14,50,1335.42
+HMPP-10313,Hotel Modelo Python Panamá,Colombia,2025-11-25,2026-01-10,46,1139.23
+HMPP-10314,Hotel Modelo Python Panamá,Panama (Local),2025-11-25,2025-12-09,14,331.49
+HMPP-10315,Hotel Modelo Python Panamá,Panama (Local),2025-11-25,2025-11-30,5,419.17
+HMPP-10316,Hotel Modelo Python Panamá,Panama (Local),2025-11-26,2025-12-02,6,472.2
+HMPP-10317,Hotel Modelo Python Panamá,Panama (Local),2025-11-26,2025-12-13,17,445.64
+HMPP-10318,Hotel Modelo Python Panamá,Panama (Local),2025-11-26,2025-12-10,14,425.94
+HMPP-10319,Hotel Modelo Python Panamá,Panama (Local),2025-11-26,2025-11-29,3,396.27
+HMPP-10320,Hotel Modelo Python Panamá,Panama (Local),2025-11-26,2025-12-02,6,394.15
+HMPP-10321,Hotel Modelo Python Panamá,Panama (Local),2025-11-26,2025-11-30,4,532.24
+HMPP-10322,Hotel Modelo Python Panamá,Panama (Local),2025-11-26,2025-12-05,9,370.26
+HMPP-10323,Hotel Modelo Python Panamá,Panama (Local),2025-11-27,2025-12-01,4,371.65
+HMPP-10324,Hotel Modelo Python Panamá,Panama (Local),2025-11-27,2025-12-13,16,458.43
+HMPP-10325,Hotel Modelo Python Panamá,Panama (Local),2025-11-27,2025-12-14,17,417.14
+HMPP-10326,Hotel Modelo Python Panamá,Panama (Local),2025-11-27,2025-12-13,16,365.95
+HMPP-10327,Hotel Modelo Python Panamá,Panama (Local),2025-11-27,2025-11-29,2,491.74
+HMPP-10328,Hotel Modelo Python Panamá,Colombia,2025-11-27,2025-12-26,29,1078.48
+HMPP-10329,Hotel Modelo Python Panamá,Panama (Local),2025-11-27,2025-12-02,5,421.26
+HMPP-10330,Hotel Modelo Python Panamá,Panama (Local),2025-11-27,2025-11-28,1,453.23
+HMPP-10331,Hotel Modelo Python Panamá,USA,2025-11-28,2026-01-10,43,949.1
+HMPP-10332,Hotel Modelo Python Panamá,Panama (Local),2025-11-28,2025-12-13,15,475.39
+HMPP-10333,Hotel Modelo Python Panamá,Panama (Local),2025-11-28,2025-12-11,13,467.51
+HMPP-10334,Hotel Modelo Python Panamá,Colombia,2025-11-28,2025-12-31,33,1225.52
+HMPP-10335,Hotel Modelo Python Panamá,Panama (Local),2025-11-28,2025-12-08,10,453.96
+HMPP-10336,Hotel Modelo Python Panamá,Panama (Local),2025-11-29,2025-12-07,8,319.22
+HMPP-10337,Hotel Modelo Python Panamá,Panama (Local),2025-11-29,2025-12-12,13,424.95
+HMPP-10338,Hotel Modelo Python Panamá,Panama (Local),2025-11-29,2025-12-01,2,438.35
+HMPP-10339,Hotel Modelo Python Panamá,Panama (Local),2025-11-30,2025-12-06,6,459.11
+HMPP-10340,Hotel Modelo Python Panamá,Colombia,2025-11-30,2026-01-15,46,1022.17
+HMPP-10341,Hotel Modelo Python Panamá,Panama (Local),2025-11-30,2025-12-02,2,441.87
+HMPP-10342,Hotel Modelo Python Panamá,Panama (Local),2025-11-30,2025-12-05,5,495.03
+HMPP-10343,Hotel Modelo Python Panamá,Panama (Local),2025-11-30,2025-12-11,11,473.82
+HMPP-10344,Hotel Modelo Python Panamá,Panama (Local),2025-11-30,2025-12-03,3,427.68
+HMPP-10345,Hotel Modelo Python Panamá,Panama (Local),2025-11-30,2025-12-03,3,449.66
+HMPP-10346,Hotel Modelo Python Panamá,Panama (Local),2025-11-30,2025-12-03,3,381.23
+HMPP-10347,Hotel Modelo Python Panamá,Panama (Local),2025-12-01,2025-12-15,14,501.78
+HMPP-10348,Hotel Modelo Python Panamá,Panama (Local),2025-12-01,2025-12-10,9,404.74
+HMPP-10349,Hotel Modelo Python Panamá,Panama (Local),2025-12-01,2025-12-14,13,426.95
+HMPP-10350,Hotel Modelo Python Panamá,Panama (Local),2025-12-01,2025-12-08,7,455.23
+HMPP-10351,Hotel Modelo Python Panamá,Colombia,2025-12-02,2026-01-05,34,1197.55
+HMPP-10352,Hotel Modelo Python Panamá,Panama (Local),2025-12-02,2025-12-14,12,505.94
+HMPP-10353,Hotel Modelo Python Panamá,Panama (Local),2025-12-02,2025-12-10,8,473.13
+HMPP-10354,Hotel Modelo Python Panamá,Panama (Local),2025-12-02,2025-12-12,10,435.55
+HMPP-10355,Hotel Modelo Python Panamá,Colombia,2025-12-02,2026-01-04,33,1356.67
+HMPP-10356,Hotel Modelo Python Panamá,Panama (Local),2025-12-02,2025-12-06,4,356.76
+HMPP-10357,Hotel Modelo Python Panamá,Panama (Local),2025-12-02,2025-12-06,4,455.53
+HMPP-10358,Hotel Modelo Python Panamá,Panama (Local),2025-12-02,2025-12-09,7,417.91
+HMPP-10359,Hotel Modelo Python Panamá,Panama (Local),2025-12-02,2025-12-15,13,495.37
+HMPP-10360,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-21,18,436.22
+HMPP-10361,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-12,9,476.3
+HMPP-10362,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-17,14,396.28
+HMPP-10363,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-18,15,442.55
+HMPP-10364,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-17,14,514.42
+HMPP-10365,Hotel Modelo Python Panamá,USA,2025-12-03,2026-01-28,56,959.77
+HMPP-10366,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-05,2,472.57
+HMPP-10367,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-05,2,481.71
+HMPP-10368,Hotel Modelo Python Panamá,USA,2025-12-03,2026-01-17,45,1117.37
+HMPP-10369,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-12,9,568.0
+HMPP-10370,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-06,3,361.03
+HMPP-10371,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-14,11,518.21
+HMPP-10372,Hotel Modelo Python Panamá,Panama (Local),2025-12-03,2025-12-05,2,437.34
+HMPP-10373,Hotel Modelo Python Panamá,Panama (Local),2025-12-04,2025-12-16,12,473.21
+HMPP-10374,Hotel Modelo Python Panamá,Panama (Local),2025-12-04,2025-12-08,4,419.94
+HMPP-10375,Hotel Modelo Python Panamá,Panama (Local),2025-12-05,2025-12-14,9,509.43
+HMPP-10376,Hotel Modelo Python Panamá,Panama (Local),2025-12-05,2025-12-09,4,413.98
+HMPP-10377,Hotel Modelo Python Panamá,Panama (Local),2025-12-05,2025-12-16,11,423.09
+HMPP-10378,Hotel Modelo Python Panamá,Panama (Local),2025-12-05,2025-12-08,3,427.0
+HMPP-10379,Hotel Modelo Python Panamá,Panama (Local),2025-12-05,2025-12-13,8,445.55
+HMPP-10380,Hotel Modelo Python Panamá,Panama (Local),2025-12-05,2025-12-17,12,400.35
+HMPP-10381,Hotel Modelo Python Panamá,USA,2025-12-05,2026-01-02,28,974.24
+HMPP-10382,Hotel Modelo Python Panamá,Panama (Local),2025-12-06,2025-12-13,7,425.27
+HMPP-10383,Hotel Modelo Python Panamá,Panama (Local),2025-12-06,2025-12-14,8,450.33
+HMPP-10384,Hotel Modelo Python Panamá,Panama (Local),2025-12-06,2025-12-11,5,459.45
+HMPP-10385,Hotel Modelo Python Panamá,Panama (Local),2025-12-06,2025-12-24,18,473.09
+HMPP-10386,Hotel Modelo Python Panamá,Panama (Local),2025-12-06,2025-12-12,6,430.43
+HMPP-10387,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-08,1,350.4
+HMPP-10388,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-26,19,383.83
+HMPP-10389,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-19,12,450.02
+HMPP-10390,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-10,3,380.93
+HMPP-10391,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-23,16,438.22
+HMPP-10392,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-13,6,382.65
+HMPP-10393,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-12,5,480.25
+HMPP-10394,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-20,13,392.3
+HMPP-10395,Hotel Modelo Python Panamá,Panama (Local),2025-12-07,2025-12-18,11,503.82
+HMPP-10396,Hotel Modelo Python Panamá,Panama (Local),2025-12-08,2025-12-22,14,529.57
+HMPP-10397,Hotel Modelo Python Panamá,Colombia,2025-12-08,2026-01-17,40,1217.29
+HMPP-10398,Hotel Modelo Python Panamá,Panama (Local),2025-12-08,2025-12-24,16,461.59
+HMPP-10399,Hotel Modelo Python Panamá,Colombia,2025-12-08,2026-01-03,26,1088.35
+HMPP-10400,Hotel Modelo Python Panamá,Panama (Local),2025-12-08,2025-12-18,10,503.42
+HMPP-10401,Hotel Modelo Python Panamá,Colombia,2025-12-08,2026-01-28,51,1388.01
+HMPP-10402,Hotel Modelo Python Panamá,Panama (Local),2025-12-08,2025-12-23,15,435.98
+HMPP-10403,Hotel Modelo Python Panamá,Panama (Local),2025-12-08,2025-12-21,13,522.58
+HMPP-10404,Hotel Modelo Python Panamá,Panama (Local),2025-12-08,2025-12-09,1,479.39
+HMPP-10405,Hotel Modelo Python Panamá,USA,2025-12-08,2026-01-04,27,924.25
+HMPP-10406,Hotel Modelo Python Panamá,Panama (Local),2025-12-09,2025-12-24,15,410.92
+HMPP-10407,Hotel Modelo Python Panamá,Panama (Local),2025-12-09,2025-12-28,19,488.45
+HMPP-10408,Hotel Modelo Python Panamá,Panama (Local),2025-12-09,2025-12-24,15,528.49
+HMPP-10409,Hotel Modelo Python Panamá,Panama (Local),2025-12-09,2025-12-11,2,420.82
+HMPP-10410,Hotel Modelo Python Panamá,Panama (Local),2025-12-09,2025-12-25,16,530.82
+HMPP-10411,Hotel Modelo Python Panamá,Colombia,2025-12-09,2026-01-24,46,1188.53
+HMPP-10412,Hotel Modelo Python Panamá,Panama (Local),2025-12-10,2025-12-12,2,412.22
+HMPP-10413,Hotel Modelo Python Panamá,Panama (Local),2025-12-10,2025-12-18,8,434.64
+HMPP-10414,Hotel Modelo Python Panamá,Panama (Local),2025-12-10,2025-12-11,1,459.56
+HMPP-10415,Hotel Modelo Python Panamá,Panama (Local),2025-12-10,2025-12-14,4,425.06
+HMPP-10416,Hotel Modelo Python Panamá,Panama (Local),2025-12-10,2025-12-28,18,435.13
+HMPP-10417,Hotel Modelo Python Panamá,Panama (Local),2025-12-11,2025-12-13,2,461.95
+HMPP-10418,Hotel Modelo Python Panamá,USA,2025-12-11,2026-01-28,48,998.98
+HMPP-10419,Hotel Modelo Python Panamá,Colombia,2025-12-11,2026-01-27,47,1128.58
+HMPP-10420,Hotel Modelo Python Panamá,Panama (Local),2025-12-11,2025-12-14,3,495.61
+HMPP-10421,Hotel Modelo Python Panamá,Panama (Local),2025-12-11,2025-12-25,14,435.55
+HMPP-10422,Hotel Modelo Python Panamá,Panama (Local),2025-12-12,2025-12-30,18,337.27
+HMPP-10423,Hotel Modelo Python Panamá,Panama (Local),2025-12-12,2025-12-20,8,456.78
+HMPP-10424,Hotel Modelo Python Panamá,Panama (Local),2025-12-12,2025-12-21,9,446.25
+HMPP-10425,Hotel Modelo Python Panamá,Panama (Local),2025-12-12,2025-12-27,15,483.77
+HMPP-10426,Hotel Modelo Python Panamá,Panama (Local),2025-12-12,2025-12-28,16,398.41
+HMPP-10427,Hotel Modelo Python Panamá,Panama (Local),2025-12-12,2025-12-13,1,413.34
+HMPP-10428,Hotel Modelo Python Panamá,Panama (Local),2025-12-12,2025-12-26,14,428.5
+HMPP-10429,Hotel Modelo Python Panamá,Panama (Local),2025-12-13,2025-12-19,6,455.52
+HMPP-10430,Hotel Modelo Python Panamá,Colombia,2025-12-13,2026-02-08,57,1375.53
+HMPP-10431,Hotel Modelo Python Panamá,Panama (Local),2025-12-13,2025-12-14,1,496.93
+HMPP-10432,Hotel Modelo Python Panamá,Panama (Local),2025-12-13,2025-12-30,17,396.53
+HMPP-10433,Hotel Modelo Python Panamá,Panama (Local),2025-12-13,2025-12-19,6,450.91
+HMPP-10434,Hotel Modelo Python Panamá,Panama (Local),2025-12-13,2025-12-18,5,440.0
+HMPP-10435,Hotel Modelo Python Panamá,Panama (Local),2025-12-13,2025-12-31,18,501.96
+HMPP-10436,Hotel Modelo Python Panamá,Panama (Local),2025-12-14,2025-12-25,11,509.61
+HMPP-10437,Hotel Modelo Python Panamá,USA,2025-12-14,2026-01-28,45,980.1
+HMPP-10438,Hotel Modelo Python Panamá,Panama (Local),2025-12-14,2025-12-31,17,409.43
+HMPP-10439,Hotel Modelo Python Panamá,Panama (Local),2025-12-14,2025-12-28,14,443.49
+HMPP-10440,Hotel Modelo Python Panamá,Panama (Local),2025-12-14,2025-12-21,7,459.66
+HMPP-10441,Hotel Modelo Python Panamá,Panama (Local),2025-12-14,2025-12-26,12,421.94
+HMPP-10442,Hotel Modelo Python Panamá,Panama (Local),2025-12-14,2026-01-01,18,459.4
+HMPP-10443,Hotel Modelo Python Panamá,Panama (Local),2025-12-15,2025-12-29,14,431.79
+HMPP-10444,Hotel Modelo Python Panamá,Colombia,2025-12-15,2026-01-27,43,1229.78
+HMPP-10445,Hotel Modelo Python Panamá,Panama (Local),2025-12-15,2026-01-03,19,414.75
+HMPP-10446,Hotel Modelo Python Panamá,Panama (Local),2025-12-15,2025-12-21,6,392.74
+HMPP-10447,Hotel Modelo Python Panamá,USA,2025-12-16,2026-01-16,31,911.83
+HMPP-10448,Hotel Modelo Python Panamá,Panama (Local),2025-12-16,2025-12-22,6,396.37
+HMPP-10449,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2025-12-20,3,483.83
+HMPP-10450,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2025-12-31,14,506.31
+HMPP-10451,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2025-12-29,12,343.03
+HMPP-10452,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2026-01-05,19,429.23
+HMPP-10453,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2025-12-20,3,474.19
+HMPP-10454,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2026-01-03,17,465.75
+HMPP-10455,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2025-12-21,4,396.21
+HMPP-10456,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2025-12-23,6,424.2
+HMPP-10457,Hotel Modelo Python Panamá,Panama (Local),2025-12-17,2025-12-18,1,436.34
+HMPP-10458,Hotel Modelo Python Panamá,Panama (Local),2025-12-18,2025-12-24,6,427.46
+HMPP-10459,Hotel Modelo Python Panamá,Colombia,2025-12-18,2026-01-29,42,1197.61
+HMPP-10460,Hotel Modelo Python Panamá,Panama (Local),2025-12-18,2025-12-26,8,422.96
+HMPP-10461,Hotel Modelo Python Panamá,Panama (Local),2025-12-18,2026-01-06,19,499.5
+HMPP-10462,Hotel Modelo Python Panamá,Panama (Local),2025-12-18,2025-12-30,12,452.48
+HMPP-10463,Hotel Modelo Python Panamá,Panama (Local),2025-12-18,2025-12-31,13,423.71
+HMPP-10464,Hotel Modelo Python Panamá,Panama (Local),2025-12-19,2026-01-06,18,487.93
+HMPP-10465,Hotel Modelo Python Panamá,Panama (Local),2025-12-19,2026-01-07,19,503.59
+HMPP-10466,Hotel Modelo Python Panamá,Panama (Local),2025-12-20,2025-12-24,4,423.51
+HMPP-10467,Hotel Modelo Python Panamá,Panama (Local),2025-12-20,2026-01-02,13,450.71
+HMPP-10468,Hotel Modelo Python Panamá,USA,2025-12-20,2026-02-11,53,1099.24
+HMPP-10469,Hotel Modelo Python Panamá,Panama (Local),2025-12-20,2026-01-01,12,455.94
+HMPP-10470,Hotel Modelo Python Panamá,Panama (Local),2025-12-20,2026-01-08,19,434.96
+HMPP-10471,Hotel Modelo Python Panamá,Panama (Local),2025-12-20,2026-01-07,18,452.68
+HMPP-10472,Hotel Modelo Python Panamá,Panama (Local),2025-12-20,2025-12-22,2,491.53
+HMPP-10473,Hotel Modelo Python Panamá,Panama (Local),2025-12-20,2025-12-25,5,503.66
+HMPP-10474,Hotel Modelo Python Panamá,Colombia,2025-12-20,2026-02-07,49,1067.61
+HMPP-10475,Hotel Modelo Python Panamá,Colombia,2025-12-20,2026-01-31,42,1123.43
+HMPP-10476,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2025-12-29,8,498.05
+HMPP-10477,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2025-12-26,5,504.62
+HMPP-10478,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2026-01-07,17,448.88
+HMPP-10479,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2025-12-23,2,467.67
+HMPP-10480,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2025-12-26,5,486.32
+HMPP-10481,Hotel Modelo Python Panamá,Colombia,2025-12-21,2026-02-04,45,1167.32
+HMPP-10482,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2026-01-04,14,486.83
+HMPP-10483,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2026-01-09,19,405.18
+HMPP-10484,Hotel Modelo Python Panamá,Panama (Local),2025-12-21,2025-12-26,5,456.78
+HMPP-10485,Hotel Modelo Python Panamá,Panama (Local),2025-12-22,2025-12-29,7,459.12
+HMPP-10486,Hotel Modelo Python Panamá,Panama (Local),2025-12-22,2026-01-04,13,460.23
+HMPP-10487,Hotel Modelo Python Panamá,Panama (Local),2025-12-22,2025-12-26,4,428.29
+HMPP-10488,Hotel Modelo Python Panamá,Panama (Local),2025-12-22,2026-01-08,17,440.32
+HMPP-10489,Hotel Modelo Python Panamá,USA,2025-12-22,2026-02-13,53,1040.6
+HMPP-10490,Hotel Modelo Python Panamá,Panama (Local),2025-12-22,2025-12-29,7,398.45
+HMPP-10491,Hotel Modelo Python Panamá,Panama (Local),2025-12-22,2026-01-08,17,426.57
+HMPP-10492,Hotel Modelo Python Panamá,Panama (Local),2025-12-22,2025-12-31,9,457.23
+HMPP-10493,Hotel Modelo Python Panamá,Panama (Local),2025-12-23,2025-12-24,1,455.54
+HMPP-10494,Hotel Modelo Python Panamá,Panama (Local),2025-12-23,2026-01-02,10,464.52
+HMPP-10495,Hotel Modelo Python Panamá,Panama (Local),2025-12-23,2026-01-01,9,459.03
+HMPP-10496,Hotel Modelo Python Panamá,Panama (Local),2025-12-23,2025-12-28,5,477.93
+HMPP-10497,Hotel Modelo Python Panamá,Panama (Local),2025-12-23,2026-01-10,18,410.47
+HMPP-10498,Hotel Modelo Python Panamá,Panama (Local),2025-12-23,2026-01-06,14,373.07
+HMPP-10499,Hotel Modelo Python Panamá,Panama (Local),2025-12-24,2025-12-31,7,375.61
+HMPP-10500,Hotel Modelo Python Panamá,Panama (Local),2025-12-24,2025-12-29,5,442.39
+HMPP-10501,Hotel Modelo Python Panamá,Panama (Local),2025-12-24,2025-12-26,2,411.81
+HMPP-10502,Hotel Modelo Python Panamá,Colombia,2025-12-24,2026-01-27,34,1317.27
+HMPP-10503,Hotel Modelo Python Panamá,Panama (Local),2025-12-24,2026-01-12,19,430.51
+HMPP-10504,Hotel Modelo Python Panamá,Panama (Local),2025-12-24,2025-12-27,3,496.59
+HMPP-10505,Hotel Modelo Python Panamá,USA,2025-12-24,2026-02-22,60,943.0
+HMPP-10506,Hotel Modelo Python Panamá,Panama (Local),2025-12-25,2025-12-27,2,416.84
+HMPP-10507,Hotel Modelo Python Panamá,USA,2025-12-25,2026-02-08,45,733.02
+HMPP-10508,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2026-01-10,15,480.7
+HMPP-10509,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2025-12-30,4,514.49
+HMPP-10510,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2026-01-08,13,456.45
+HMPP-10511,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2025-12-29,3,405.3
+HMPP-10512,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2025-12-28,2,467.77
+HMPP-10513,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2026-01-14,19,514.31
+HMPP-10514,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2026-01-07,12,403.02
+HMPP-10515,Hotel Modelo Python Panamá,Panama (Local),2025-12-26,2025-12-31,5,465.11
+HMPP-10516,Hotel Modelo Python Panamá,Panama (Local),2025-12-27,2026-01-05,9,398.44
+HMPP-10517,Hotel Modelo Python Panamá,Panama (Local),2025-12-27,2025-12-31,4,421.3
+HMPP-10518,Hotel Modelo Python Panamá,Panama (Local),2025-12-27,2026-01-05,9,470.87
+HMPP-10519,Hotel Modelo Python Panamá,Panama (Local),2025-12-27,2026-01-13,17,502.77
+HMPP-10520,Hotel Modelo Python Panamá,Panama (Local),2025-12-27,2025-12-31,4,489.46
+HMPP-10521,Hotel Modelo Python Panamá,Panama (Local),2025-12-27,2026-01-13,17,464.83
+HMPP-10522,Hotel Modelo Python Panamá,Panama (Local),2025-12-27,2025-12-28,1,509.91
+HMPP-10523,Hotel Modelo Python Panamá,Colombia,2025-12-28,2026-01-23,26,1113.27
+HMPP-10524,Hotel Modelo Python Panamá,Panama (Local),2025-12-28,2026-01-10,13,418.92
+HMPP-10525,Hotel Modelo Python Panamá,Colombia,2025-12-28,2026-01-22,25,1026.5
+HMPP-10526,Hotel Modelo Python Panamá,Panama (Local),2025-12-28,2026-01-10,13,397.58
+HMPP-10527,Hotel Modelo Python Panamá,Panama (Local),2025-12-29,2025-12-30,1,401.8
+HMPP-10528,Hotel Modelo Python Panamá,Panama (Local),2025-12-29,2026-01-11,13,565.14
+HMPP-10529,Hotel Modelo Python Panamá,Panama (Local),2025-12-29,2026-01-09,11,457.09
+HMPP-10530,Hotel Modelo Python Panamá,USA,2025-12-29,2026-02-21,54,975.72
+HMPP-10531,Hotel Modelo Python Panamá,Panama (Local),2025-12-29,2026-01-12,14,403.37
+HMPP-10532,Hotel Modelo Python Panamá,Panama (Local),2025-12-29,2026-01-02,4,424.67
+HMPP-10533,Hotel Modelo Python Panamá,USA,2025-12-29,2026-02-16,49,1004.2
+HMPP-10534,Hotel Modelo Python Panamá,Panama (Local),2025-12-29,2026-01-02,4,390.6
+HMPP-10535,Hotel Modelo Python Panamá,Panama (Local),2025-12-30,2026-01-03,4,485.26
+HMPP-10536,Hotel Modelo Python Panamá,Panama (Local),2025-12-30,2026-01-17,18,460.34
+HMPP-10537,Hotel Modelo Python Panamá,Panama (Local),2025-12-31,2026-01-02,2,437.03
+HMPP-10538,Hotel Modelo Python Panamá,Panama (Local),2025-12-31,2026-01-06,6,499.78
+HMPP-10539,Hotel Modelo Python Panamá,Colombia,2025-12-31,2026-02-15,46,1335.26
+HMPP-10540,Hotel Modelo Python Panamá,Panama (Local),2025-12-31,2026-01-13,13,448.56
+HMPP-10541,Hotel Modelo Python Panamá,Panama (Local),2025-12-31,2026-01-03,3,463.95
+HMPP-10542,Hotel Modelo Python Panamá,Panama (Local),2025-12-31,2026-01-16,16,393.42
+HMPP-10543,Hotel Modelo Python Panamá,Panama (Local),2025-12-31,2026-01-05,5,404.09
+HMPP-10544,Hotel Modelo Python Panamá,Panama (Local),2026-01-01,2026-01-06,5,395.02
+HMPP-10545,Hotel Modelo Python Panamá,Panama (Local),2026-01-01,2026-01-09,8,437.45
+HMPP-10546,Hotel Modelo Python Panamá,Panama (Local),2026-01-01,2026-01-07,6,428.27
+HMPP-10547,Hotel Modelo Python Panamá,Panama (Local),2026-01-01,2026-01-11,10,491.89
+HMPP-10548,Hotel Modelo Python Panamá,Panama (Local),2026-01-02,2026-01-03,1,483.37
+HMPP-10549,Hotel Modelo Python Panamá,Panama (Local),2026-01-02,2026-01-09,7,473.96
+HMPP-10550,Hotel Modelo Python Panamá,Panama (Local),2026-01-02,2026-01-21,19,445.23
+HMPP-10551,Hotel Modelo Python Panamá,Panama (Local),2026-01-02,2026-01-20,18,444.4
+HMPP-10552,Hotel Modelo Python Panamá,Panama (Local),2026-01-02,2026-01-03,1,482.89
+HMPP-10553,Hotel Modelo Python Panamá,Panama (Local),2026-01-02,2026-01-16,14,539.06
+HMPP-10554,Hotel Modelo Python Panamá,Panama (Local),2026-01-03,2026-01-06,3,475.53
+HMPP-10555,Hotel Modelo Python Panamá,Panama (Local),2026-01-03,2026-01-19,16,474.76
+HMPP-10556,Hotel Modelo Python Panamá,Panama (Local),2026-01-03,2026-01-17,14,385.66
+HMPP-10557,Hotel Modelo Python Panamá,Panama (Local),2026-01-03,2026-01-05,2,462.14
+HMPP-10558,Hotel Modelo Python Panamá,Panama (Local),2026-01-03,2026-01-05,2,386.47
+HMPP-10559,Hotel Modelo Python Panamá,USA,2026-01-03,2026-01-28,25,975.6
+HMPP-10560,Hotel Modelo Python Panamá,Panama (Local),2026-01-03,2026-01-12,9,458.21
+HMPP-10561,Hotel Modelo Python Panamá,Colombia,2026-01-03,2026-02-06,34,1201.94
+HMPP-10562,Hotel Modelo Python Panamá,Panama (Local),2026-01-04,2026-01-07,3,463.97
+HMPP-10563,Hotel Modelo Python Panamá,USA,2026-01-04,2026-01-30,26,861.03
+HMPP-10564,Hotel Modelo Python Panamá,Panama (Local),2026-01-04,2026-01-12,8,330.86
+HMPP-10565,Hotel Modelo Python Panamá,Panama (Local),2026-01-04,2026-01-23,19,512.12
+HMPP-10566,Hotel Modelo Python Panamá,Panama (Local),2026-01-04,2026-01-09,5,436.73
+HMPP-10567,Hotel Modelo Python Panamá,Panama (Local),2026-01-05,2026-01-24,19,398.67
+HMPP-10568,Hotel Modelo Python Panamá,Panama (Local),2026-01-05,2026-01-24,19,476.06
+HMPP-10569,Hotel Modelo Python Panamá,Colombia,2026-01-05,2026-03-02,56,1249.3
+HMPP-10570,Hotel Modelo Python Panamá,Panama (Local),2026-01-05,2026-01-24,19,466.74
+HMPP-10571,Hotel Modelo Python Panamá,Panama (Local),2026-01-05,2026-01-09,4,419.05
+HMPP-10572,Hotel Modelo Python Panamá,Panama (Local),2026-01-05,2026-01-23,18,440.41
+HMPP-10573,Hotel Modelo Python Panamá,Panama (Local),2026-01-05,2026-01-08,3,456.48
+HMPP-10574,Hotel Modelo Python Panamá,Panama (Local),2026-01-05,2026-01-23,18,530.95
+HMPP-10575,Hotel Modelo Python Panamá,Panama (Local),2026-01-06,2026-01-19,13,473.11
+HMPP-10576,Hotel Modelo Python Panamá,Colombia,2026-01-06,2026-03-01,54,1360.22
+HMPP-10577,Hotel Modelo Python Panamá,Panama (Local),2026-01-06,2026-01-23,17,518.62
+HMPP-10578,Hotel Modelo Python Panamá,Panama (Local),2026-01-06,2026-01-15,9,441.3
+HMPP-10579,Hotel Modelo Python Panamá,Panama (Local),2026-01-06,2026-01-10,4,480.15
+HMPP-10580,Hotel Modelo Python Panamá,Panama (Local),2026-01-06,2026-01-20,14,525.51
+HMPP-10581,Hotel Modelo Python Panamá,Panama (Local),2026-01-07,2026-01-11,4,502.73
+HMPP-10582,Hotel Modelo Python Panamá,USA,2026-01-07,2026-03-08,60,905.56
+HMPP-10583,Hotel Modelo Python Panamá,Panama (Local),2026-01-07,2026-01-20,13,432.54
+HMPP-10584,Hotel Modelo Python Panamá,Panama (Local),2026-01-07,2026-01-08,1,502.25
+HMPP-10585,Hotel Modelo Python Panamá,Panama (Local),2026-01-07,2026-01-15,8,507.57
+HMPP-10586,Hotel Modelo Python Panamá,Panama (Local),2026-01-07,2026-01-10,3,443.54
+HMPP-10587,Hotel Modelo Python Panamá,Panama (Local),2026-01-07,2026-01-23,16,467.49
+HMPP-10588,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-24,16,503.33
+HMPP-10589,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-21,13,399.69
+HMPP-10590,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-18,10,484.93
+HMPP-10591,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-19,11,432.86
+HMPP-10592,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-14,6,440.05
+HMPP-10593,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-25,17,429.19
+HMPP-10594,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-11,3,417.8
+HMPP-10595,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-19,11,437.13
+HMPP-10596,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-17,9,425.41
+HMPP-10597,Hotel Modelo Python Panamá,USA,2026-01-08,2026-02-25,48,1005.89
+HMPP-10598,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-12,4,462.67
+HMPP-10599,Hotel Modelo Python Panamá,Panama (Local),2026-01-08,2026-01-20,12,389.99
+HMPP-10600,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-27,18,513.36
+HMPP-10601,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-14,5,474.29
+HMPP-10602,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-20,11,391.26
+HMPP-10603,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-11,2,501.98
+HMPP-10604,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-20,11,424.73
+HMPP-10605,Hotel Modelo Python Panamá,Colombia,2026-01-09,2026-03-09,59,1204.63
+HMPP-10606,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-17,8,398.15
+HMPP-10607,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-20,11,463.56
+HMPP-10608,Hotel Modelo Python Panamá,Panama (Local),2026-01-09,2026-01-28,19,388.53
+HMPP-10609,Hotel Modelo Python Panamá,Panama (Local),2026-01-10,2026-01-28,18,378.73
+HMPP-10610,Hotel Modelo Python Panamá,Panama (Local),2026-01-10,2026-01-29,19,394.88
+HMPP-10611,Hotel Modelo Python Panamá,Panama (Local),2026-01-10,2026-01-27,17,444.2
+HMPP-10612,Hotel Modelo Python Panamá,Panama (Local),2026-01-10,2026-01-20,10,438.29
+HMPP-10613,Hotel Modelo Python Panamá,Panama (Local),2026-01-10,2026-01-27,17,403.76
+HMPP-10614,Hotel Modelo Python Panamá,Panama (Local),2026-01-10,2026-01-12,2,455.29
+HMPP-10615,Hotel Modelo Python Panamá,Panama (Local),2026-01-11,2026-01-20,9,499.28
+HMPP-10616,Hotel Modelo Python Panamá,USA,2026-01-11,2026-02-13,33,940.19
+HMPP-10617,Hotel Modelo Python Panamá,Colombia,2026-01-11,2026-02-23,43,1244.89
+HMPP-10618,Hotel Modelo Python Panamá,Panama (Local),2026-01-11,2026-01-18,7,395.59
+HMPP-10619,Hotel Modelo Python Panamá,Panama (Local),2026-01-11,2026-01-24,13,503.21
+HMPP-10620,Hotel Modelo Python Panamá,USA,2026-01-12,2026-03-06,53,956.07
+HMPP-10621,Hotel Modelo Python Panamá,Panama (Local),2026-01-12,2026-01-27,15,452.74
+HMPP-10622,Hotel Modelo Python Panamá,Panama (Local),2026-01-12,2026-01-16,4,476.43
+HMPP-10623,Hotel Modelo Python Panamá,Panama (Local),2026-01-12,2026-01-24,12,427.47
+HMPP-10624,Hotel Modelo Python Panamá,Panama (Local),2026-01-13,2026-01-27,14,501.36
+HMPP-10625,Hotel Modelo Python Panamá,Panama (Local),2026-01-13,2026-01-30,17,475.65
+HMPP-10626,Hotel Modelo Python Panamá,Colombia,2026-01-13,2026-02-19,37,1148.62
+HMPP-10627,Hotel Modelo Python Panamá,Panama (Local),2026-01-13,2026-01-23,10,449.47
+HMPP-10628,Hotel Modelo Python Panamá,Panama (Local),2026-01-13,2026-01-29,16,487.97
+HMPP-10629,Hotel Modelo Python Panamá,Panama (Local),2026-01-14,2026-01-21,7,419.23
+HMPP-10630,Hotel Modelo Python Panamá,Panama (Local),2026-01-14,2026-01-27,13,383.91
+HMPP-10631,Hotel Modelo Python Panamá,Panama (Local),2026-01-14,2026-01-29,15,435.36
+HMPP-10632,Hotel Modelo Python Panamá,Panama (Local),2026-01-14,2026-01-29,15,499.43
+HMPP-10633,Hotel Modelo Python Panamá,Panama (Local),2026-01-14,2026-01-31,17,424.43
+HMPP-10634,Hotel Modelo Python Panamá,Panama (Local),2026-01-14,2026-01-25,11,476.52
+HMPP-10635,Hotel Modelo Python Panamá,Panama (Local),2026-01-14,2026-01-19,5,439.85
+HMPP-10636,Hotel Modelo Python Panamá,Panama (Local),2026-01-15,2026-01-18,3,497.0
+HMPP-10637,Hotel Modelo Python Panamá,Panama (Local),2026-01-15,2026-01-20,5,440.35
+HMPP-10638,Hotel Modelo Python Panamá,Panama (Local),2026-01-15,2026-01-28,13,381.79
+HMPP-10639,Hotel Modelo Python Panamá,Panama (Local),2026-01-15,2026-02-02,18,540.8
+HMPP-10640,Hotel Modelo Python Panamá,Panama (Local),2026-01-15,2026-01-25,10,459.91
+HMPP-10641,Hotel Modelo Python Panamá,Panama (Local),2026-01-15,2026-02-01,17,437.0
+HMPP-10642,Hotel Modelo Python Panamá,Colombia,2026-01-16,2026-03-03,46,1395.06
+HMPP-10643,Hotel Modelo Python Panamá,USA,2026-01-16,2026-03-02,45,925.8
+HMPP-10644,Hotel Modelo Python Panamá,Panama (Local),2026-01-17,2026-01-18,1,426.13
+HMPP-10645,Hotel Modelo Python Panamá,Panama (Local),2026-01-17,2026-01-26,9,405.59
+HMPP-10646,Hotel Modelo Python Panamá,Panama (Local),2026-01-17,2026-01-26,9,462.95
+HMPP-10647,Hotel Modelo Python Panamá,Panama (Local),2026-01-17,2026-02-05,19,484.0
+HMPP-10648,Hotel Modelo Python Panamá,Panama (Local),2026-01-17,2026-02-05,19,496.17
+HMPP-10649,Hotel Modelo Python Panamá,Panama (Local),2026-01-17,2026-02-02,16,454.82
+HMPP-10650,Hotel Modelo Python Panamá,Panama (Local),2026-01-17,2026-02-04,18,432.63
+HMPP-10651,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-01-22,4,454.02
+HMPP-10652,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-01-30,12,490.0
+HMPP-10653,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-01-26,8,397.92
+HMPP-10654,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-01-25,7,454.97
+HMPP-10655,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-02-02,15,472.04
+HMPP-10656,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-02-02,15,472.32
+HMPP-10657,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-01-19,1,478.8
+HMPP-10658,Hotel Modelo Python Panamá,Panama (Local),2026-01-18,2026-01-26,8,389.1
+HMPP-10659,Hotel Modelo Python Panamá,Panama (Local),2026-01-19,2026-02-07,19,413.73
+HMPP-10660,Hotel Modelo Python Panamá,Panama (Local),2026-01-19,2026-01-26,7,439.63
+HMPP-10661,Hotel Modelo Python Panamá,Panama (Local),2026-01-19,2026-02-01,13,455.75
+HMPP-10662,Hotel Modelo Python Panamá,Panama (Local),2026-01-20,2026-02-04,15,436.29
+HMPP-10663,Hotel Modelo Python Panamá,Colombia,2026-01-20,2026-02-23,34,1293.05
+HMPP-10664,Hotel Modelo Python Panamá,Panama (Local),2026-01-20,2026-02-02,13,451.93
+HMPP-10665,Hotel Modelo Python Panamá,Panama (Local),2026-01-20,2026-01-21,1,490.84
+HMPP-10666,Hotel Modelo Python Panamá,Panama (Local),2026-01-20,2026-01-25,5,413.3
+HMPP-10667,Hotel Modelo Python Panamá,Panama (Local),2026-01-20,2026-01-29,9,465.08
+HMPP-10668,Hotel Modelo Python Panamá,USA,2026-01-20,2026-03-03,42,1003.02
+HMPP-10669,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-01-26,5,460.76
+HMPP-10670,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-02-01,11,410.57
+HMPP-10671,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-02-05,15,400.67
+HMPP-10672,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-02-08,18,506.66
+HMPP-10673,Hotel Modelo Python Panamá,USA,2026-01-21,2026-02-21,31,1253.9
+HMPP-10674,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-01-23,2,552.03
+HMPP-10675,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-02-01,11,462.28
+HMPP-10676,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-01-27,6,455.42
+HMPP-10677,Hotel Modelo Python Panamá,Panama (Local),2026-01-21,2026-02-05,15,533.43
+HMPP-10678,Hotel Modelo Python Panamá,USA,2026-01-22,2026-03-20,57,957.87
+HMPP-10679,Hotel Modelo Python Panamá,Panama (Local),2026-01-22,2026-02-08,17,427.37
+HMPP-10680,Hotel Modelo Python Panamá,USA,2026-01-22,2026-03-13,50,1022.52
+HMPP-10681,Hotel Modelo Python Panamá,Panama (Local),2026-01-22,2026-01-26,4,491.97
+HMPP-10682,Hotel Modelo Python Panamá,USA,2026-01-22,2026-02-28,37,946.98
+HMPP-10683,Hotel Modelo Python Panamá,Panama (Local),2026-01-22,2026-01-30,8,354.51
+HMPP-10684,Hotel Modelo Python Panamá,Panama (Local),2026-01-22,2026-02-02,11,401.13
+HMPP-10685,Hotel Modelo Python Panamá,Panama (Local),2026-01-22,2026-02-01,10,395.38
+HMPP-10686,Hotel Modelo Python Panamá,Panama (Local),2026-01-22,2026-02-02,11,387.31
+HMPP-10687,Hotel Modelo Python Panamá,Panama (Local),2026-01-23,2026-02-07,15,442.6
+HMPP-10688,Hotel Modelo Python Panamá,Panama (Local),2026-01-23,2026-02-08,16,518.56
+HMPP-10689,Hotel Modelo Python Panamá,Panama (Local),2026-01-23,2026-02-03,11,489.82
+HMPP-10690,Hotel Modelo Python Panamá,Panama (Local),2026-01-23,2026-01-31,8,398.08
+HMPP-10691,Hotel Modelo Python Panamá,Panama (Local),2026-01-23,2026-02-01,9,529.03
+HMPP-10692,Hotel Modelo Python Panamá,Colombia,2026-01-23,2026-03-06,42,1120.52
+HMPP-10693,Hotel Modelo Python Panamá,Panama (Local),2026-01-24,2026-02-09,16,450.99
+HMPP-10694,Hotel Modelo Python Panamá,Panama (Local),2026-01-24,2026-01-29,5,527.47
+HMPP-10695,Hotel Modelo Python Panamá,Panama (Local),2026-01-24,2026-02-06,13,462.98
+HMPP-10696,Hotel Modelo Python Panamá,Panama (Local),2026-01-24,2026-02-10,17,414.84
+HMPP-10697,Hotel Modelo Python Panamá,Panama (Local),2026-01-25,2026-02-07,13,425.49
+HMPP-10698,Hotel Modelo Python Panamá,Panama (Local),2026-01-25,2026-02-02,8,412.01
+HMPP-10699,Hotel Modelo Python Panamá,Panama (Local),2026-01-25,2026-02-12,18,523.06
+HMPP-10700,Hotel Modelo Python Panamá,Panama (Local),2026-01-25,2026-02-12,18,440.47
+HMPP-10701,Hotel Modelo Python Panamá,Panama (Local),2026-01-25,2026-02-10,16,458.02
+HMPP-10702,Hotel Modelo Python Panamá,USA,2026-01-25,2026-03-24,58,940.68
+HMPP-10703,Hotel Modelo Python Panamá,Panama (Local),2026-01-25,2026-02-13,19,460.95
+HMPP-10704,Hotel Modelo Python Panamá,Panama (Local),2026-01-26,2026-01-30,4,466.47
+HMPP-10705,Hotel Modelo Python Panamá,Panama (Local),2026-01-26,2026-02-07,12,464.83
+HMPP-10706,Hotel Modelo Python Panamá,Panama (Local),2026-01-26,2026-02-07,12,423.03
+HMPP-10707,Hotel Modelo Python Panamá,Panama (Local),2026-01-26,2026-02-12,17,460.8
+HMPP-10708,Hotel Modelo Python Panamá,Panama (Local),2026-01-26,2026-02-10,15,454.19
+HMPP-10709,Hotel Modelo Python Panamá,Panama (Local),2026-01-26,2026-02-01,6,522.49
+HMPP-10710,Hotel Modelo Python Panamá,Panama (Local),2026-01-26,2026-01-27,1,423.62
+HMPP-10711,Hotel Modelo Python Panamá,Panama (Local),2026-01-27,2026-01-29,2,412.97
+HMPP-10712,Hotel Modelo Python Panamá,Panama (Local),2026-01-27,2026-02-13,17,368.82
+HMPP-10713,Hotel Modelo Python Panamá,Colombia,2026-01-27,2026-03-10,42,1172.27
+HMPP-10714,Hotel Modelo Python Panamá,Panama (Local),2026-01-27,2026-02-05,9,461.45
+HMPP-10715,Hotel Modelo Python Panamá,Panama (Local),2026-01-27,2026-02-13,17,427.66
+HMPP-10716,Hotel Modelo Python Panamá,USA,2026-01-27,2026-02-25,29,1022.14
+HMPP-10717,Hotel Modelo Python Panamá,Panama (Local),2026-01-28,2026-02-08,11,490.95
+HMPP-10718,Hotel Modelo Python Panamá,Panama (Local),2026-01-28,2026-01-31,3,440.31
+HMPP-10719,Hotel Modelo Python Panamá,Panama (Local),2026-01-28,2026-02-07,10,458.1
+HMPP-10720,Hotel Modelo Python Panamá,Panama (Local),2026-01-28,2026-02-11,14,427.44
+HMPP-10721,Hotel Modelo Python Panamá,Panama (Local),2026-01-28,2026-02-11,14,510.14
+HMPP-10722,Hotel Modelo Python Panamá,Panama (Local),2026-01-28,2026-02-04,7,445.75
+HMPP-10723,Hotel Modelo Python Panamá,Panama (Local),2026-01-28,2026-02-04,7,436.84
+HMPP-10724,Hotel Modelo Python Panamá,Panama (Local),2026-01-29,2026-02-10,12,479.75
+HMPP-10725,Hotel Modelo Python Panamá,Colombia,2026-01-29,2026-03-14,44,1270.34
+HMPP-10726,Hotel Modelo Python Panamá,Panama (Local),2026-01-29,2026-01-30,1,391.53
+HMPP-10727,Hotel Modelo Python Panamá,Panama (Local),2026-01-29,2026-02-15,17,464.58
+HMPP-10728,Hotel Modelo Python Panamá,Panama (Local),2026-01-30,2026-02-12,13,469.09
+HMPP-10729,Hotel Modelo Python Panamá,Panama (Local),2026-01-30,2026-02-15,16,442.12
+HMPP-10730,Hotel Modelo Python Panamá,Panama (Local),2026-01-30,2026-02-07,8,485.74
+HMPP-10731,Hotel Modelo Python Panamá,Panama (Local),2026-01-30,2026-02-10,11,411.75
+HMPP-10732,Hotel Modelo Python Panamá,Panama (Local),2026-01-30,2026-02-05,6,487.91
+HMPP-10733,Hotel Modelo Python Panamá,Panama (Local),2026-01-30,2026-02-01,2,420.97
+HMPP-10734,Hotel Modelo Python Panamá,Panama (Local),2026-01-31,2026-02-17,17,544.47
+HMPP-10735,Hotel Modelo Python Panamá,Panama (Local),2026-01-31,2026-02-06,6,450.41
+HMPP-10736,Hotel Modelo Python Panamá,Panama (Local),2026-01-31,2026-02-03,3,555.26
+HMPP-10737,Hotel Modelo Python Panamá,Colombia,2026-02-01,2026-03-19,46,1138.06
+HMPP-10738,Hotel Modelo Python Panamá,Panama (Local),2026-02-01,2026-02-10,9,557.95
+HMPP-10739,Hotel Modelo Python Panamá,Panama (Local),2026-02-01,2026-02-07,6,520.18
+HMPP-10740,Hotel Modelo Python Panamá,Panama (Local),2026-02-01,2026-02-14,13,526.15
+HMPP-10741,Hotel Modelo Python Panamá,Panama (Local),2026-02-01,2026-02-10,9,472.32
+HMPP-10742,Hotel Modelo Python Panamá,Panama (Local),2026-02-01,2026-02-03,2,424.62
+HMPP-10743,Hotel Modelo Python Panamá,Panama (Local),2026-02-02,2026-02-03,1,455.49
+HMPP-10744,Hotel Modelo Python Panamá,Panama (Local),2026-02-02,2026-02-19,17,457.36
+HMPP-10745,Hotel Modelo Python Panamá,USA,2026-02-02,2026-03-15,41,1072.17
+HMPP-10746,Hotel Modelo Python Panamá,Panama (Local),2026-02-02,2026-02-03,1,498.3
+HMPP-10747,Hotel Modelo Python Panamá,Panama (Local),2026-02-02,2026-02-06,4,496.16
+HMPP-10748,Hotel Modelo Python Panamá,Colombia,2026-02-02,2026-03-06,32,1333.34
+HMPP-10749,Hotel Modelo Python Panamá,Panama (Local),2026-02-02,2026-02-15,13,497.83
+HMPP-10750,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-16,13,529.18
+HMPP-10751,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-14,11,477.91
+HMPP-10752,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-20,17,503.92
+HMPP-10753,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-12,9,420.9
+HMPP-10754,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-17,14,424.45
+HMPP-10755,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-08,5,369.59
+HMPP-10756,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-05,2,393.34
+HMPP-10757,Hotel Modelo Python Panamá,Panama (Local),2026-02-03,2026-02-14,11,417.12
+HMPP-10758,Hotel Modelo Python Panamá,Panama (Local),2026-02-04,2026-02-15,11,413.42
+HMPP-10759,Hotel Modelo Python Panamá,Panama (Local),2026-02-04,2026-02-14,10,514.1
+HMPP-10760,Hotel Modelo Python Panamá,Panama (Local),2026-02-04,2026-02-21,17,385.39
+HMPP-10761,Hotel Modelo Python Panamá,Panama (Local),2026-02-04,2026-02-06,2,443.11
+HMPP-10762,Hotel Modelo Python Panamá,Colombia,2026-02-04,2026-03-05,29,1104.27
+HMPP-10763,Hotel Modelo Python Panamá,Panama (Local),2026-02-04,2026-02-19,15,386.1
+HMPP-10764,Hotel Modelo Python Panamá,USA,2026-02-05,2026-03-26,49,846.83
+HMPP-10765,Hotel Modelo Python Panamá,Panama (Local),2026-02-05,2026-02-20,15,473.0
+HMPP-10766,Hotel Modelo Python Panamá,Panama (Local),2026-02-05,2026-02-13,8,477.51
+HMPP-10767,Hotel Modelo Python Panamá,Panama (Local),2026-02-05,2026-02-06,1,438.73
+HMPP-10768,Hotel Modelo Python Panamá,Colombia,2026-02-05,2026-03-22,45,964.89
+HMPP-10769,Hotel Modelo Python Panamá,Panama (Local),2026-02-05,2026-02-18,13,417.04
+HMPP-10770,Hotel Modelo Python Panamá,Panama (Local),2026-02-05,2026-02-11,6,470.85
+HMPP-10771,Hotel Modelo Python Panamá,Panama (Local),2026-02-05,2026-02-15,10,437.2
+HMPP-10772,Hotel Modelo Python Panamá,USA,2026-02-06,2026-03-05,27,1008.46
+HMPP-10773,Hotel Modelo Python Panamá,USA,2026-02-06,2026-03-21,43,866.06
+HMPP-10774,Hotel Modelo Python Panamá,Panama (Local),2026-02-06,2026-02-10,4,409.54
+HMPP-10775,Hotel Modelo Python Panamá,Panama (Local),2026-02-06,2026-02-12,6,501.96
+HMPP-10776,Hotel Modelo Python Panamá,Panama (Local),2026-02-06,2026-02-19,13,435.57
+HMPP-10777,Hotel Modelo Python Panamá,USA,2026-02-07,2026-03-31,52,899.25
+HMPP-10778,Hotel Modelo Python Panamá,Panama (Local),2026-02-07,2026-02-16,9,408.76
+HMPP-10779,Hotel Modelo Python Panamá,Panama (Local),2026-02-07,2026-02-22,15,450.24
+HMPP-10780,Hotel Modelo Python Panamá,Panama (Local),2026-02-07,2026-02-13,6,454.52
+HMPP-10781,Hotel Modelo Python Panamá,Panama (Local),2026-02-07,2026-02-22,15,483.09
+HMPP-10782,Hotel Modelo Python Panamá,Panama (Local),2026-02-08,2026-02-19,11,399.34
+HMPP-10783,Hotel Modelo Python Panamá,Colombia,2026-02-08,2026-03-09,29,1446.45
+HMPP-10784,Hotel Modelo Python Panamá,Panama (Local),2026-02-08,2026-02-13,5,471.53
+HMPP-10785,Hotel Modelo Python Panamá,Panama (Local),2026-02-08,2026-02-16,8,484.67
+HMPP-10786,Hotel Modelo Python Panamá,Panama (Local),2026-02-08,2026-02-23,15,537.59
+HMPP-10787,Hotel Modelo Python Panamá,Panama (Local),2026-02-08,2026-02-23,15,396.6
+HMPP-10788,Hotel Modelo Python Panamá,Panama (Local),2026-02-09,2026-02-24,15,485.9
+HMPP-10789,Hotel Modelo Python Panamá,Panama (Local),2026-02-09,2026-02-13,4,487.72
+HMPP-10790,Hotel Modelo Python Panamá,Panama (Local),2026-02-09,2026-02-22,13,393.37
+HMPP-10791,Hotel Modelo Python Panamá,Panama (Local),2026-02-09,2026-02-16,7,409.85
+HMPP-10792,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-03-01,19,517.62
+HMPP-10793,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-02-12,2,404.59
+HMPP-10794,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-02-18,8,501.96
+HMPP-10795,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-02-19,9,434.86
+HMPP-10796,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-02-15,5,424.17
+HMPP-10797,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-02-22,12,472.98
+HMPP-10798,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-02-14,4,423.21
+HMPP-10799,Hotel Modelo Python Panamá,Panama (Local),2026-02-10,2026-02-26,16,481.46
+HMPP-10800,Hotel Modelo Python Panamá,Panama (Local),2026-02-11,2026-02-20,9,440.88
+HMPP-10801,Hotel Modelo Python Panamá,Panama (Local),2026-02-11,2026-02-12,1,398.6
+HMPP-10802,Hotel Modelo Python Panamá,USA,2026-02-11,2026-03-30,47,1038.43
+HMPP-10803,Hotel Modelo Python Panamá,Panama (Local),2026-02-12,2026-02-21,9,444.72
+HMPP-10804,Hotel Modelo Python Panamá,Panama (Local),2026-02-12,2026-02-14,2,366.39
+HMPP-10805,Hotel Modelo Python Panamá,Panama (Local),2026-02-12,2026-02-13,1,413.98
+HMPP-10806,Hotel Modelo Python Panamá,Panama (Local),2026-02-12,2026-03-03,19,423.08
+HMPP-10807,Hotel Modelo Python Panamá,Colombia,2026-02-12,2026-04-02,49,1133.03
+HMPP-10808,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-26,13,507.61
+HMPP-10809,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-26,13,400.84
+HMPP-10810,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-20,7,395.65
+HMPP-10811,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-03-02,17,473.59
+HMPP-10812,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-03-03,18,371.45
+HMPP-10813,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-19,6,408.59
+HMPP-10814,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-22,9,367.05
+HMPP-10815,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-24,11,483.5
+HMPP-10816,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-16,3,536.78
+HMPP-10817,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-28,15,431.89
+HMPP-10818,Hotel Modelo Python Panamá,Panama (Local),2026-02-13,2026-02-18,5,457.91
+HMPP-10819,Hotel Modelo Python Panamá,Panama (Local),2026-02-14,2026-02-28,14,502.79
+HMPP-10820,Hotel Modelo Python Panamá,Panama (Local),2026-02-14,2026-02-19,5,483.04
+HMPP-10821,Hotel Modelo Python Panamá,Panama (Local),2026-02-14,2026-02-24,10,454.72
+HMPP-10822,Hotel Modelo Python Panamá,Panama (Local),2026-02-14,2026-02-20,6,401.52
+HMPP-10823,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-02-17,2,430.23
+HMPP-10824,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-02-28,13,419.97
+HMPP-10825,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-02-25,10,421.54
+HMPP-10826,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-02-19,4,463.86
+HMPP-10827,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-02-21,6,449.11
+HMPP-10828,Hotel Modelo Python Panamá,Colombia,2026-02-15,2026-03-12,25,1291.53
+HMPP-10829,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-02-20,5,399.78
+HMPP-10830,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-03-03,16,420.23
+HMPP-10831,Hotel Modelo Python Panamá,Panama (Local),2026-02-15,2026-03-02,15,499.88
+HMPP-10832,Hotel Modelo Python Panamá,Panama (Local),2026-02-16,2026-03-01,13,431.7
+HMPP-10833,Hotel Modelo Python Panamá,Colombia,2026-02-16,2026-04-10,53,1298.08
+HMPP-10834,Hotel Modelo Python Panamá,Panama (Local),2026-02-16,2026-03-05,17,472.39
+HMPP-10835,Hotel Modelo Python Panamá,Panama (Local),2026-02-16,2026-02-17,1,449.59
+HMPP-10836,Hotel Modelo Python Panamá,Panama (Local),2026-02-16,2026-03-03,15,448.49
+HMPP-10837,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-02-26,9,443.57
+HMPP-10838,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-02-28,11,383.23
+HMPP-10839,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-02-18,1,436.05
+HMPP-10840,Hotel Modelo Python Panamá,USA,2026-02-17,2026-03-17,28,1198.16
+HMPP-10841,Hotel Modelo Python Panamá,USA,2026-02-17,2026-03-19,30,894.92
+HMPP-10842,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-02-27,10,367.5
+HMPP-10843,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-02-24,7,465.18
+HMPP-10844,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-02-20,3,449.8
+HMPP-10845,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-03-03,14,472.82
+HMPP-10846,Hotel Modelo Python Panamá,Panama (Local),2026-02-17,2026-02-18,1,466.55
+HMPP-10847,Hotel Modelo Python Panamá,Panama (Local),2026-02-18,2026-02-24,6,454.05
+HMPP-10848,Hotel Modelo Python Panamá,Panama (Local),2026-02-18,2026-02-24,6,410.7
+HMPP-10849,Hotel Modelo Python Panamá,Colombia,2026-02-18,2026-04-06,47,1366.48
+HMPP-10850,Hotel Modelo Python Panamá,Panama (Local),2026-02-18,2026-03-09,19,500.92
+HMPP-10851,Hotel Modelo Python Panamá,Panama (Local),2026-02-18,2026-03-08,18,501.17
+HMPP-10852,Hotel Modelo Python Panamá,Panama (Local),2026-02-18,2026-03-07,17,445.67
+HMPP-10853,Hotel Modelo Python Panamá,USA,2026-02-19,2026-03-18,27,925.59
+HMPP-10854,Hotel Modelo Python Panamá,Panama (Local),2026-02-19,2026-02-28,9,441.2
+HMPP-10855,Hotel Modelo Python Panamá,Panama (Local),2026-02-19,2026-03-02,11,498.84
+HMPP-10856,Hotel Modelo Python Panamá,Panama (Local),2026-02-19,2026-03-03,12,441.02
+HMPP-10857,Hotel Modelo Python Panamá,Panama (Local),2026-02-19,2026-03-06,15,464.46
+HMPP-10858,Hotel Modelo Python Panamá,Panama (Local),2026-02-19,2026-02-26,7,502.8
+HMPP-10859,Hotel Modelo Python Panamá,Panama (Local),2026-02-19,2026-02-22,3,536.82
+HMPP-10860,Hotel Modelo Python Panamá,Panama (Local),2026-02-20,2026-02-28,8,480.05
+HMPP-10861,Hotel Modelo Python Panamá,Panama (Local),2026-02-20,2026-02-23,3,449.99
+HMPP-10862,Hotel Modelo Python Panamá,Panama (Local),2026-02-20,2026-03-06,14,400.0
+HMPP-10863,Hotel Modelo Python Panamá,Panama (Local),2026-02-20,2026-02-24,4,481.12
+HMPP-10864,Hotel Modelo Python Panamá,Panama (Local),2026-02-20,2026-03-08,16,422.9
+HMPP-10865,Hotel Modelo Python Panamá,Panama (Local),2026-02-21,2026-03-08,15,461.06
+HMPP-10866,Hotel Modelo Python Panamá,Panama (Local),2026-02-21,2026-03-07,14,521.13
+HMPP-10867,Hotel Modelo Python Panamá,Panama (Local),2026-02-21,2026-03-06,13,484.46
+HMPP-10868,Hotel Modelo Python Panamá,Panama (Local),2026-02-21,2026-03-01,8,459.55
+HMPP-10869,Hotel Modelo Python Panamá,Panama (Local),2026-02-22,2026-03-01,7,416.79
+HMPP-10870,Hotel Modelo Python Panamá,Panama (Local),2026-02-22,2026-03-02,8,402.96
+HMPP-10871,Hotel Modelo Python Panamá,Panama (Local),2026-02-22,2026-02-24,2,409.22
+HMPP-10872,Hotel Modelo Python Panamá,Panama (Local),2026-02-22,2026-03-13,19,414.95
+HMPP-10873,Hotel Modelo Python Panamá,Colombia,2026-02-22,2026-04-12,49,1217.26
+HMPP-10874,Hotel Modelo Python Panamá,Panama (Local),2026-02-22,2026-03-11,17,438.39
+HMPP-10875,Hotel Modelo Python Panamá,Panama (Local),2026-02-22,2026-02-24,2,483.5
+HMPP-10876,Hotel Modelo Python Panamá,Panama (Local),2026-02-23,2026-02-27,4,500.59
+HMPP-10877,Hotel Modelo Python Panamá,Colombia,2026-02-23,2026-04-22,58,1154.43
+HMPP-10878,Hotel Modelo Python Panamá,Panama (Local),2026-02-23,2026-03-08,13,452.17
+HMPP-10879,Hotel Modelo Python Panamá,Colombia,2026-02-24,2026-03-25,29,1205.08
+HMPP-10880,Hotel Modelo Python Panamá,Panama (Local),2026-02-24,2026-02-28,4,362.73
+HMPP-10881,Hotel Modelo Python Panamá,Colombia,2026-02-24,2026-04-24,59,1293.78
+HMPP-10882,Hotel Modelo Python Panamá,Panama (Local),2026-02-24,2026-03-05,9,478.94
+HMPP-10883,Hotel Modelo Python Panamá,Panama (Local),2026-02-24,2026-03-13,17,552.77
+HMPP-10884,Hotel Modelo Python Panamá,Panama (Local),2026-02-24,2026-03-11,15,448.37
+HMPP-10885,Hotel Modelo Python Panamá,Panama (Local),2026-02-24,2026-02-28,4,424.89
+HMPP-10886,Hotel Modelo Python Panamá,Panama (Local),2026-02-24,2026-02-28,4,415.91
+HMPP-10887,Hotel Modelo Python Panamá,Panama (Local),2026-02-24,2026-02-27,3,452.28
+HMPP-10888,Hotel Modelo Python Panamá,Panama (Local),2026-02-25,2026-03-05,8,431.23
+HMPP-10889,Hotel Modelo Python Panamá,Panama (Local),2026-02-25,2026-03-05,8,452.61
+HMPP-10890,Hotel Modelo Python Panamá,Panama (Local),2026-02-25,2026-02-26,1,388.08
+HMPP-10891,Hotel Modelo Python Panamá,Panama (Local),2026-02-25,2026-03-14,17,413.33
+HMPP-10892,Hotel Modelo Python Panamá,Panama (Local),2026-02-25,2026-03-03,6,480.85
+HMPP-10893,Hotel Modelo Python Panamá,Panama (Local),2026-02-26,2026-03-14,16,420.09
+HMPP-10894,Hotel Modelo Python Panamá,Panama (Local),2026-02-26,2026-03-06,8,504.01
+HMPP-10895,Hotel Modelo Python Panamá,USA,2026-02-26,2026-04-21,54,885.32
+HMPP-10896,Hotel Modelo Python Panamá,Panama (Local),2026-02-26,2026-02-28,2,483.0
+HMPP-10897,Hotel Modelo Python Panamá,Panama (Local),2026-02-26,2026-03-02,4,439.75
+HMPP-10898,Hotel Modelo Python Panamá,Panama (Local),2026-02-26,2026-03-09,11,406.91
+HMPP-10899,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-03-04,5,407.88
+HMPP-10900,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-03-07,8,486.46
+HMPP-10901,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-03-01,2,439.35
+HMPP-10902,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-03-14,15,402.76
+HMPP-10903,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-03-01,2,483.75
+HMPP-10904,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-02-28,1,392.19
+HMPP-10905,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-03-11,12,412.66
+HMPP-10906,Hotel Modelo Python Panamá,Panama (Local),2026-02-27,2026-03-06,7,515.67
+HMPP-10907,Hotel Modelo Python Panamá,Panama (Local),2026-02-28,2026-03-14,14,485.9
+HMPP-10908,Hotel Modelo Python Panamá,Panama (Local),2026-02-28,2026-03-19,19,460.6
+HMPP-10909,Hotel Modelo Python Panamá,Panama (Local),2026-02-28,2026-03-14,14,568.52
+HMPP-10910,Hotel Modelo Python Panamá,Panama (Local),2026-02-28,2026-03-19,19,459.17
+HMPP-10911,Hotel Modelo Python Panamá,Colombia,2026-02-28,2026-04-02,33,1270.6
+HMPP-10912,Hotel Modelo Python Panamá,Panama (Local),2026-02-28,2026-03-01,1,475.77
+HMPP-10913,Hotel Modelo Python Panamá,USA,2026-02-28,2026-04-22,53,946.91
+HMPP-10914,Hotel Modelo Python Panamá,Panama (Local),2026-02-28,2026-03-14,14,422.73
+HMPP-10915,Hotel Modelo Python Panamá,Panama (Local),2026-02-28,2026-03-19,19,361.28
+HMPP-10916,Hotel Modelo Python Panamá,Panama (Local),2026-03-01,2026-03-09,8,537.32
+HMPP-10917,Hotel Modelo Python Panamá,Panama (Local),2026-03-01,2026-03-04,3,455.12
+HMPP-10918,Hotel Modelo Python Panamá,Panama (Local),2026-03-01,2026-03-12,11,475.96
+HMPP-10919,Hotel Modelo Python Panamá,Panama (Local),2026-03-01,2026-03-13,12,390.42
+HMPP-10920,Hotel Modelo Python Panamá,Panama (Local),2026-03-02,2026-03-10,8,476.38
+HMPP-10921,Hotel Modelo Python Panamá,Panama (Local),2026-03-02,2026-03-06,4,466.7
+HMPP-10922,Hotel Modelo Python Panamá,Panama (Local),2026-03-02,2026-03-19,17,434.85
+HMPP-10923,Hotel Modelo Python Panamá,Colombia,2026-03-02,2026-05-01,60,1262.0
+HMPP-10924,Hotel Modelo Python Panamá,USA,2026-03-02,2026-04-15,44,1035.84
+HMPP-10925,Hotel Modelo Python Panamá,Panama (Local),2026-03-02,2026-03-20,18,445.93
+HMPP-10926,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-10,7,351.35
+HMPP-10927,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-08,5,481.23
+HMPP-10928,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-16,13,403.97
+HMPP-10929,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-19,16,470.35
+HMPP-10930,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-14,11,467.21
+HMPP-10931,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-11,8,442.11
+HMPP-10932,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-17,14,433.47
+HMPP-10933,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-18,15,503.26
+HMPP-10934,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-12,9,462.88
+HMPP-10935,Hotel Modelo Python Panamá,Panama (Local),2026-03-03,2026-03-14,11,430.31
+HMPP-10936,Hotel Modelo Python Panamá,Panama (Local),2026-03-04,2026-03-18,14,397.81
+HMPP-10937,Hotel Modelo Python Panamá,Colombia,2026-03-04,2026-04-27,54,1100.76
+HMPP-10938,Hotel Modelo Python Panamá,Colombia,2026-03-04,2026-04-01,28,1027.57
+HMPP-10939,Hotel Modelo Python Panamá,Panama (Local),2026-03-04,2026-03-15,11,491.56
+HMPP-10940,Hotel Modelo Python Panamá,Panama (Local),2026-03-04,2026-03-08,4,479.3
+HMPP-10941,Hotel Modelo Python Panamá,Panama (Local),2026-03-04,2026-03-10,6,418.21
+HMPP-10942,Hotel Modelo Python Panamá,Panama (Local),2026-03-04,2026-03-15,11,438.8
+HMPP-10943,Hotel Modelo Python Panamá,Colombia,2026-03-04,2026-04-16,43,1382.96
+HMPP-10944,Hotel Modelo Python Panamá,Panama (Local),2026-03-04,2026-03-17,13,469.86
+HMPP-10945,Hotel Modelo Python Panamá,Panama (Local),2026-03-04,2026-03-12,8,415.42
+HMPP-10946,Hotel Modelo Python Panamá,Panama (Local),2026-03-05,2026-03-17,12,407.87
+HMPP-10947,Hotel Modelo Python Panamá,Panama (Local),2026-03-05,2026-03-07,2,510.12
+HMPP-10948,Hotel Modelo Python Panamá,Panama (Local),2026-03-05,2026-03-08,3,453.35
+HMPP-10949,Hotel Modelo Python Panamá,Panama (Local),2026-03-05,2026-03-08,3,511.11
+HMPP-10950,Hotel Modelo Python Panamá,Colombia,2026-03-05,2026-04-27,53,1144.65
+HMPP-10951,Hotel Modelo Python Panamá,Panama (Local),2026-03-05,2026-03-22,17,461.37
+HMPP-10952,Hotel Modelo Python Panamá,Panama (Local),2026-03-05,2026-03-22,17,442.85
+HMPP-10953,Hotel Modelo Python Panamá,Panama (Local),2026-03-06,2026-03-15,9,405.63
+HMPP-10954,Hotel Modelo Python Panamá,Panama (Local),2026-03-06,2026-03-10,4,443.16
+HMPP-10955,Hotel Modelo Python Panamá,Colombia,2026-03-06,2026-04-27,52,1228.67
+HMPP-10956,Hotel Modelo Python Panamá,Panama (Local),2026-03-06,2026-03-22,16,453.83
+HMPP-10957,Hotel Modelo Python Panamá,Panama (Local),2026-03-06,2026-03-09,3,511.63
+HMPP-10958,Hotel Modelo Python Panamá,Panama (Local),2026-03-07,2026-03-08,1,489.17
+HMPP-10959,Hotel Modelo Python Panamá,Panama (Local),2026-03-07,2026-03-26,19,465.49
+HMPP-10960,Hotel Modelo Python Panamá,Panama (Local),2026-03-07,2026-03-17,10,420.34
+HMPP-10961,Hotel Modelo Python Panamá,Panama (Local),2026-03-07,2026-03-09,2,464.28
+HMPP-10962,Hotel Modelo Python Panamá,Panama (Local),2026-03-07,2026-03-13,6,424.35
+HMPP-10963,Hotel Modelo Python Panamá,Panama (Local),2026-03-07,2026-03-15,8,413.66
+HMPP-10964,Hotel Modelo Python Panamá,Panama (Local),2026-03-07,2026-03-20,13,473.75
+HMPP-10965,Hotel Modelo Python Panamá,Panama (Local),2026-03-08,2026-03-09,1,480.57
+HMPP-10966,Hotel Modelo Python Panamá,Colombia,2026-03-08,2026-04-23,46,1144.12
+HMPP-10967,Hotel Modelo Python Panamá,Panama (Local),2026-03-08,2026-03-16,8,497.9
+HMPP-10968,Hotel Modelo Python Panamá,Panama (Local),2026-03-08,2026-03-21,13,399.34
+HMPP-10969,Hotel Modelo Python Panamá,Panama (Local),2026-03-09,2026-03-16,7,438.79
+HMPP-10970,Hotel Modelo Python Panamá,Panama (Local),2026-03-09,2026-03-18,9,379.77
+HMPP-10971,Hotel Modelo Python Panamá,Panama (Local),2026-03-09,2026-03-22,13,511.02
+HMPP-10972,Hotel Modelo Python Panamá,Colombia,2026-03-09,2026-04-22,44,1236.18
+HMPP-10973,Hotel Modelo Python Panamá,Panama (Local),2026-03-10,2026-03-23,13,473.58
+HMPP-10974,Hotel Modelo Python Panamá,Panama (Local),2026-03-10,2026-03-29,19,490.87
+HMPP-10975,Hotel Modelo Python Panamá,Panama (Local),2026-03-10,2026-03-21,11,436.41
+HMPP-10976,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-13,2,531.42
+HMPP-10977,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-22,11,401.88
+HMPP-10978,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-12,1,448.72
+HMPP-10979,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-24,13,521.5
+HMPP-10980,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-15,4,396.62
+HMPP-10981,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-27,16,413.26
+HMPP-10982,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-24,13,559.51
+HMPP-10983,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-21,10,503.76
+HMPP-10984,Hotel Modelo Python Panamá,Panama (Local),2026-03-11,2026-03-26,15,441.44
+HMPP-10985,Hotel Modelo Python Panamá,Panama (Local),2026-03-12,2026-03-25,13,467.65
+HMPP-10986,Hotel Modelo Python Panamá,Panama (Local),2026-03-12,2026-03-23,11,454.6
+HMPP-10987,Hotel Modelo Python Panamá,Colombia,2026-03-12,2026-04-06,25,1019.23
+HMPP-10988,Hotel Modelo Python Panamá,Panama (Local),2026-03-12,2026-03-18,6,434.26
+HMPP-10989,Hotel Modelo Python Panamá,Panama (Local),2026-03-12,2026-03-24,12,424.33
+HMPP-10990,Hotel Modelo Python Panamá,Panama (Local),2026-03-12,2026-03-18,6,462.32
+HMPP-10991,Hotel Modelo Python Panamá,Panama (Local),2026-03-12,2026-03-26,14,462.92
+HMPP-10992,Hotel Modelo Python Panamá,Panama (Local),2026-03-12,2026-03-17,5,399.53
+HMPP-10993,Hotel Modelo Python Panamá,USA,2026-03-12,2026-04-17,36,939.54
+HMPP-10994,Hotel Modelo Python Panamá,Panama (Local),2026-03-13,2026-03-25,12,466.58
+HMPP-10995,Hotel Modelo Python Panamá,Panama (Local),2026-03-13,2026-03-30,17,469.87
+HMPP-10996,Hotel Modelo Python Panamá,Colombia,2026-03-13,2026-04-12,30,1087.78
+HMPP-10997,Hotel Modelo Python Panamá,Panama (Local),2026-03-13,2026-03-29,16,401.14
+HMPP-10998,Hotel Modelo Python Panamá,Panama (Local),2026-03-13,2026-03-30,17,465.6
+HMPP-10999,Hotel Modelo Python Panamá,USA,2026-03-13,2026-04-28,46,915.55
+HMPP-11000,Hotel Modelo Python Panamá,Panama (Local),2026-03-13,2026-03-27,14,405.49
+HMPP-11001,Hotel Modelo Python Panamá,Panama (Local),2026-03-13,2026-03-30,17,573.96
+HMPP-11002,Hotel Modelo Python Panamá,Panama (Local),2026-03-14,2026-03-26,12,451.99
+HMPP-11003,Hotel Modelo Python Panamá,Panama (Local),2026-03-14,2026-03-25,11,474.76
+HMPP-11004,Hotel Modelo Python Panamá,Colombia,2026-03-14,2026-05-04,51,1153.82
+HMPP-11005,Hotel Modelo Python Panamá,Panama (Local),2026-03-14,2026-03-30,16,487.56
+HMPP-11006,Hotel Modelo Python Panamá,Panama (Local),2026-03-14,2026-04-02,19,425.22
+HMPP-11007,Hotel Modelo Python Panamá,Panama (Local),2026-03-14,2026-03-31,17,355.82
+HMPP-11008,Hotel Modelo Python Panamá,Panama (Local),2026-03-15,2026-04-02,18,371.82
+HMPP-11009,Hotel Modelo Python Panamá,Panama (Local),2026-03-15,2026-03-30,15,437.81
+HMPP-11010,Hotel Modelo Python Panamá,Panama (Local),2026-03-16,2026-03-24,8,496.28
+HMPP-11011,Hotel Modelo Python Panamá,Panama (Local),2026-03-16,2026-03-29,13,439.45
+HMPP-11012,Hotel Modelo Python Panamá,Colombia,2026-03-17,2026-04-16,30,1330.85
+HMPP-11013,Hotel Modelo Python Panamá,Panama (Local),2026-03-17,2026-04-05,19,455.79
+HMPP-11014,Hotel Modelo Python Panamá,USA,2026-03-17,2026-04-20,34,1222.57
+HMPP-11015,Hotel Modelo Python Panamá,Panama (Local),2026-03-17,2026-03-18,1,468.82
+HMPP-11016,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-28,10,472.07
+HMPP-11017,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-04-05,18,468.13
+HMPP-11018,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-25,7,524.45
+HMPP-11019,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-26,8,476.41
+HMPP-11020,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-23,5,472.36
+HMPP-11021,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-26,8,434.72
+HMPP-11022,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-04-02,15,441.25
+HMPP-11023,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-27,9,453.06
+HMPP-11024,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-21,3,496.71
+HMPP-11025,Hotel Modelo Python Panamá,Panama (Local),2026-03-18,2026-03-24,6,364.81
+HMPP-11026,Hotel Modelo Python Panamá,Panama (Local),2026-03-19,2026-04-02,14,503.69
+HMPP-11027,Hotel Modelo Python Panamá,Panama (Local),2026-03-19,2026-04-06,18,404.84
+HMPP-11028,Hotel Modelo Python Panamá,Colombia,2026-03-19,2026-05-16,58,1190.55
+HMPP-11029,Hotel Modelo Python Panamá,Colombia,2026-03-19,2026-05-15,57,1090.56
+HMPP-11030,Hotel Modelo Python Panamá,Panama (Local),2026-03-19,2026-03-29,10,432.99
+HMPP-11031,Hotel Modelo Python Panamá,Panama (Local),2026-03-20,2026-03-26,6,393.6
+HMPP-11032,Hotel Modelo Python Panamá,Panama (Local),2026-03-21,2026-04-07,17,420.72
+HMPP-11033,Hotel Modelo Python Panamá,Panama (Local),2026-03-21,2026-04-07,17,400.21
+HMPP-11034,Hotel Modelo Python Panamá,Panama (Local),2026-03-21,2026-03-31,10,429.68
+HMPP-11035,Hotel Modelo Python Panamá,Panama (Local),2026-03-21,2026-03-29,8,393.25
+HMPP-11036,Hotel Modelo Python Panamá,Panama (Local),2026-03-21,2026-03-29,8,466.63
+HMPP-11037,Hotel Modelo Python Panamá,Panama (Local),2026-03-21,2026-04-05,15,456.32
+HMPP-11038,Hotel Modelo Python Panamá,Panama (Local),2026-03-21,2026-04-04,14,439.16
+HMPP-11039,Hotel Modelo Python Panamá,Panama (Local),2026-03-22,2026-04-04,13,402.55
+HMPP-11040,Hotel Modelo Python Panamá,Panama (Local),2026-03-22,2026-03-30,8,422.09
+HMPP-11041,Hotel Modelo Python Panamá,Panama (Local),2026-03-22,2026-04-04,13,471.9
+HMPP-11042,Hotel Modelo Python Panamá,Panama (Local),2026-03-22,2026-03-28,6,544.94
+HMPP-11043,Hotel Modelo Python Panamá,USA,2026-03-22,2026-05-02,41,808.11
+HMPP-11044,Hotel Modelo Python Panamá,Panama (Local),2026-03-22,2026-03-27,5,418.76
+HMPP-11045,Hotel Modelo Python Panamá,Panama (Local),2026-03-23,2026-03-29,6,443.01
+HMPP-11046,Hotel Modelo Python Panamá,Colombia,2026-03-23,2026-04-29,37,1019.59
+HMPP-11047,Hotel Modelo Python Panamá,Panama (Local),2026-03-23,2026-04-07,15,457.76
+HMPP-11048,Hotel Modelo Python Panamá,Panama (Local),2026-03-23,2026-04-10,18,423.79
+HMPP-11049,Hotel Modelo Python Panamá,Panama (Local),2026-03-23,2026-04-06,14,398.67
+HMPP-11050,Hotel Modelo Python Panamá,Panama (Local),2026-03-23,2026-04-02,10,393.2
+HMPP-11051,Hotel Modelo Python Panamá,Panama (Local),2026-03-23,2026-04-07,15,417.47
+HMPP-11052,Hotel Modelo Python Panamá,Panama (Local),2026-03-23,2026-04-09,17,471.26
+HMPP-11053,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-03-30,6,499.24
+HMPP-11054,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-04-07,14,479.05
+HMPP-11055,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-04-03,10,446.62
+HMPP-11056,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-04-12,19,474.36
+HMPP-11057,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-04-12,19,459.5
+HMPP-11058,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-03-28,4,419.17
+HMPP-11059,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-04-11,18,471.7
+HMPP-11060,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-04-08,15,369.26
+HMPP-11061,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-04-10,17,451.12
+HMPP-11062,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-03-28,4,434.59
+HMPP-11063,Hotel Modelo Python Panamá,Panama (Local),2026-03-24,2026-03-27,3,501.63
+HMPP-11064,Hotel Modelo Python Panamá,Panama (Local),2026-03-25,2026-04-12,18,422.19
+HMPP-11065,Hotel Modelo Python Panamá,Colombia,2026-03-25,2026-04-28,34,1292.68
+HMPP-11066,Hotel Modelo Python Panamá,Panama (Local),2026-03-25,2026-04-02,8,428.2
+HMPP-11067,Hotel Modelo Python Panamá,Panama (Local),2026-03-25,2026-04-10,16,484.73
+HMPP-11068,Hotel Modelo Python Panamá,Panama (Local),2026-03-25,2026-04-03,9,438.84
+HMPP-11069,Hotel Modelo Python Panamá,Colombia,2026-03-25,2026-04-29,35,1201.67
+HMPP-11070,Hotel Modelo Python Panamá,Panama (Local),2026-03-26,2026-03-31,5,487.28
+HMPP-11071,Hotel Modelo Python Panamá,Panama (Local),2026-03-26,2026-03-28,2,491.61
+HMPP-11072,Hotel Modelo Python Panamá,Panama (Local),2026-03-26,2026-04-06,11,390.51
+HMPP-11073,Hotel Modelo Python Panamá,Panama (Local),2026-03-27,2026-04-10,14,409.25
+HMPP-11074,Hotel Modelo Python Panamá,Panama (Local),2026-03-27,2026-03-29,2,366.6
+HMPP-11075,Hotel Modelo Python Panamá,Panama (Local),2026-03-27,2026-04-10,14,466.39
+HMPP-11076,Hotel Modelo Python Panamá,Panama (Local),2026-03-28,2026-04-04,7,436.04
+HMPP-11077,Hotel Modelo Python Panamá,Panama (Local),2026-03-28,2026-04-13,16,389.17
+HMPP-11078,Hotel Modelo Python Panamá,Panama (Local),2026-03-28,2026-04-06,9,436.46
+HMPP-11079,Hotel Modelo Python Panamá,Panama (Local),2026-03-28,2026-04-03,6,527.59
+HMPP-11080,Hotel Modelo Python Panamá,Panama (Local),2026-03-29,2026-03-31,2,456.67
+HMPP-11081,Hotel Modelo Python Panamá,USA,2026-03-29,2026-04-28,30,1019.27
+HMPP-11082,Hotel Modelo Python Panamá,Panama (Local),2026-03-29,2026-04-15,17,435.55
+HMPP-11083,Hotel Modelo Python Panamá,Panama (Local),2026-03-29,2026-04-14,16,500.38
+HMPP-11084,Hotel Modelo Python Panamá,Panama (Local),2026-03-29,2026-04-15,17,489.22
+HMPP-11085,Hotel Modelo Python Panamá,Panama (Local),2026-03-30,2026-04-13,14,392.08
+HMPP-11086,Hotel Modelo Python Panamá,Panama (Local),2026-03-30,2026-04-10,11,444.2
+HMPP-11087,Hotel Modelo Python Panamá,Panama (Local),2026-03-30,2026-04-06,7,513.0
+HMPP-11088,Hotel Modelo Python Panamá,Panama (Local),2026-03-30,2026-04-13,14,412.16
+HMPP-11089,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-06,6,538.21
+HMPP-11090,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-01,1,371.7
+HMPP-11091,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-08,8,458.4
+HMPP-11092,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-08,8,502.67
+HMPP-11093,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-15,15,477.54
+HMPP-11094,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-06,6,376.51
+HMPP-11095,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-05,5,433.81
+HMPP-11096,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-16,16,464.87
+HMPP-11097,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-14,14,440.2
+HMPP-11098,Hotel Modelo Python Panamá,Panama (Local),2026-03-31,2026-04-18,18,363.36
+HMPP-11099,Hotel Modelo Python Panamá,Panama (Local),2026-04-01,2026-04-16,15,425.4
+HMPP-11100,Hotel Modelo Python Panamá,Panama (Local),2026-04-01,2026-04-10,9,466.17
+HMPP-11101,Hotel Modelo Python Panamá,Panama (Local),2026-04-01,2026-04-18,17,474.52
+HMPP-11102,Hotel Modelo Python Panamá,Colombia,2026-04-01,2026-04-30,29,1123.11
+HMPP-11103,Hotel Modelo Python Panamá,Panama (Local),2026-04-01,2026-04-09,8,478.17
+HMPP-11104,Hotel Modelo Python Panamá,Panama (Local),2026-04-01,2026-04-08,7,458.03
+HMPP-11105,Hotel Modelo Python Panamá,Panama (Local),2026-04-01,2026-04-10,9,504.22
+HMPP-11106,Hotel Modelo Python Panamá,USA,2026-04-02,2026-05-29,57,1015.47
+HMPP-11107,Hotel Modelo Python Panamá,Panama (Local),2026-04-02,2026-04-19,17,428.79
+HMPP-11108,Hotel Modelo Python Panamá,Colombia,2026-04-02,2026-05-23,51,1220.89
+HMPP-11109,Hotel Modelo Python Panamá,Panama (Local),2026-04-02,2026-04-05,3,418.1
+HMPP-11110,Hotel Modelo Python Panamá,Panama (Local),2026-04-02,2026-04-19,17,427.44
+HMPP-11111,Hotel Modelo Python Panamá,Panama (Local),2026-04-02,2026-04-06,4,385.91
+HMPP-11112,Hotel Modelo Python Panamá,Panama (Local),2026-04-03,2026-04-21,18,520.09
+HMPP-11113,Hotel Modelo Python Panamá,Panama (Local),2026-04-03,2026-04-10,7,413.02
+HMPP-11114,Hotel Modelo Python Panamá,Panama (Local),2026-04-03,2026-04-22,19,557.09
+HMPP-11115,Hotel Modelo Python Panamá,Panama (Local),2026-04-03,2026-04-22,19,460.16
+HMPP-11116,Hotel Modelo Python Panamá,Panama (Local),2026-04-03,2026-04-10,7,431.72
+HMPP-11117,Hotel Modelo Python Panamá,Panama (Local),2026-04-03,2026-04-05,2,373.64
+HMPP-11118,Hotel Modelo Python Panamá,Panama (Local),2026-04-04,2026-04-18,14,501.35
+HMPP-11119,Hotel Modelo Python Panamá,Panama (Local),2026-04-04,2026-04-11,7,418.0
+HMPP-11120,Hotel Modelo Python Panamá,Panama (Local),2026-04-04,2026-04-13,9,441.97
+HMPP-11121,Hotel Modelo Python Panamá,Panama (Local),2026-04-04,2026-04-11,7,416.65
+HMPP-11122,Hotel Modelo Python Panamá,Panama (Local),2026-04-04,2026-04-08,4,483.95
+HMPP-11123,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-16,11,471.54
+HMPP-11124,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-21,16,416.88
+HMPP-11125,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-18,13,424.34
+HMPP-11126,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-22,17,426.79
+HMPP-11127,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-06,1,426.94
+HMPP-11128,Hotel Modelo Python Panamá,Colombia,2026-04-05,2026-05-25,50,1107.17
+HMPP-11129,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-15,10,464.91
+HMPP-11130,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-20,15,397.89
+HMPP-11131,Hotel Modelo Python Panamá,Panama (Local),2026-04-05,2026-04-09,4,428.68
+HMPP-11132,Hotel Modelo Python Panamá,Panama (Local),2026-04-06,2026-04-17,11,395.28
+HMPP-11133,Hotel Modelo Python Panamá,Panama (Local),2026-04-06,2026-04-07,1,414.11
+HMPP-11134,Hotel Modelo Python Panamá,Panama (Local),2026-04-06,2026-04-10,4,479.86
+HMPP-11135,Hotel Modelo Python Panamá,Panama (Local),2026-04-06,2026-04-10,4,457.57
+HMPP-11136,Hotel Modelo Python Panamá,Panama (Local),2026-04-06,2026-04-13,7,473.58
+HMPP-11137,Hotel Modelo Python Panamá,Panama (Local),2026-04-06,2026-04-10,4,452.96
+HMPP-11138,Hotel Modelo Python Panamá,Colombia,2026-04-07,2026-05-29,52,1223.53
+HMPP-11139,Hotel Modelo Python Panamá,Colombia,2026-04-07,2026-06-02,56,1193.97
+HMPP-11140,Hotel Modelo Python Panamá,Panama (Local),2026-04-07,2026-04-08,1,416.23
+HMPP-11141,Hotel Modelo Python Panamá,Panama (Local),2026-04-07,2026-04-26,19,450.67
+HMPP-11142,Hotel Modelo Python Panamá,Panama (Local),2026-04-08,2026-04-15,7,469.61
+HMPP-11143,Hotel Modelo Python Panamá,Panama (Local),2026-04-08,2026-04-13,5,419.64
+HMPP-11144,Hotel Modelo Python Panamá,Panama (Local),2026-04-09,2026-04-25,16,462.57
+HMPP-11145,Hotel Modelo Python Panamá,Panama (Local),2026-04-09,2026-04-11,2,494.71
+HMPP-11146,Hotel Modelo Python Panamá,Panama (Local),2026-04-09,2026-04-18,9,486.76
+HMPP-11147,Hotel Modelo Python Panamá,Colombia,2026-04-09,2026-06-04,56,1087.22
+HMPP-11148,Hotel Modelo Python Panamá,Panama (Local),2026-04-10,2026-04-25,15,436.09
+HMPP-11149,Hotel Modelo Python Panamá,Panama (Local),2026-04-10,2026-04-16,6,432.44
+HMPP-11150,Hotel Modelo Python Panamá,Panama (Local),2026-04-10,2026-04-17,7,439.66
+HMPP-11151,Hotel Modelo Python Panamá,Colombia,2026-04-10,2026-05-12,32,1307.4
+HMPP-11152,Hotel Modelo Python Panamá,Panama (Local),2026-04-10,2026-04-13,3,423.56
+HMPP-11153,Hotel Modelo Python Panamá,Panama (Local),2026-04-11,2026-04-30,19,539.19
+HMPP-11154,Hotel Modelo Python Panamá,Panama (Local),2026-04-11,2026-04-26,15,440.2
+HMPP-11155,Hotel Modelo Python Panamá,Panama (Local),2026-04-11,2026-04-30,19,501.33
+HMPP-11156,Hotel Modelo Python Panamá,Panama (Local),2026-04-11,2026-04-21,10,496.2
+HMPP-11157,Hotel Modelo Python Panamá,Panama (Local),2026-04-12,2026-04-24,12,405.53
+HMPP-11158,Hotel Modelo Python Panamá,Panama (Local),2026-04-12,2026-04-14,2,375.2
+HMPP-11159,Hotel Modelo Python Panamá,Panama (Local),2026-04-12,2026-04-28,16,456.39
+HMPP-11160,Hotel Modelo Python Panamá,Panama (Local),2026-04-12,2026-04-30,18,409.48
+HMPP-11161,Hotel Modelo Python Panamá,Colombia,2026-04-12,2026-05-09,27,1190.74
+HMPP-11162,Hotel Modelo Python Panamá,Panama (Local),2026-04-12,2026-04-24,12,415.16
+HMPP-11163,Hotel Modelo Python Panamá,Panama (Local),2026-04-12,2026-04-29,17,446.82
+HMPP-11164,Hotel Modelo Python Panamá,Panama (Local),2026-04-13,2026-04-22,9,456.29
+HMPP-11165,Hotel Modelo Python Panamá,Panama (Local),2026-04-13,2026-04-22,9,439.49
+HMPP-11166,Hotel Modelo Python Panamá,Panama (Local),2026-04-13,2026-04-17,4,409.53
+HMPP-11167,Hotel Modelo Python Panamá,Panama (Local),2026-04-13,2026-04-20,7,408.37
+HMPP-11168,Hotel Modelo Python Panamá,Colombia,2026-04-14,2026-05-18,34,1133.77
+HMPP-11169,Hotel Modelo Python Panamá,Panama (Local),2026-04-14,2026-04-29,15,436.61
+HMPP-11170,Hotel Modelo Python Panamá,Panama (Local),2026-04-14,2026-04-26,12,490.96
+HMPP-11171,Hotel Modelo Python Panamá,Panama (Local),2026-04-14,2026-04-19,5,477.66
+HMPP-11172,Hotel Modelo Python Panamá,Panama (Local),2026-04-15,2026-04-18,3,396.89
+HMPP-11173,Hotel Modelo Python Panamá,Panama (Local),2026-04-15,2026-05-04,19,439.15
+HMPP-11174,Hotel Modelo Python Panamá,Panama (Local),2026-04-15,2026-04-18,3,485.53
+HMPP-11175,Hotel Modelo Python Panamá,Panama (Local),2026-04-16,2026-04-24,8,450.28
+HMPP-11176,Hotel Modelo Python Panamá,Panama (Local),2026-04-16,2026-04-30,14,515.44
+HMPP-11177,Hotel Modelo Python Panamá,Panama (Local),2026-04-16,2026-04-28,12,415.37
+HMPP-11178,Hotel Modelo Python Panamá,Panama (Local),2026-04-16,2026-04-27,11,494.28
+HMPP-11179,Hotel Modelo Python Panamá,Panama (Local),2026-04-16,2026-05-05,19,417.0
+HMPP-11180,Hotel Modelo Python Panamá,Panama (Local),2026-04-16,2026-04-20,4,376.7
+HMPP-11181,Hotel Modelo Python Panamá,Panama (Local),2026-04-17,2026-04-29,12,408.21
+HMPP-11182,Hotel Modelo Python Panamá,Panama (Local),2026-04-17,2026-04-29,12,399.69
+HMPP-11183,Hotel Modelo Python Panamá,Colombia,2026-04-17,2026-06-06,50,1226.37
+HMPP-11184,Hotel Modelo Python Panamá,Panama (Local),2026-04-17,2026-04-18,1,452.13
+HMPP-11185,Hotel Modelo Python Panamá,Panama (Local),2026-04-17,2026-05-05,18,352.29
+HMPP-11186,Hotel Modelo Python Panamá,Colombia,2026-04-17,2026-06-10,54,1396.48
+HMPP-11187,Hotel Modelo Python Panamá,Panama (Local),2026-04-18,2026-04-20,2,449.88
+HMPP-11188,Hotel Modelo Python Panamá,Panama (Local),2026-04-18,2026-04-25,7,450.04
+HMPP-11189,Hotel Modelo Python Panamá,Panama (Local),2026-04-18,2026-04-26,8,522.72
+HMPP-11190,Hotel Modelo Python Panamá,Panama (Local),2026-04-18,2026-05-07,19,438.53
+HMPP-11191,Hotel Modelo Python Panamá,Panama (Local),2026-04-18,2026-04-27,9,447.55
+HMPP-11192,Hotel Modelo Python Panamá,Panama (Local),2026-04-19,2026-05-03,14,443.07
+HMPP-11193,Hotel Modelo Python Panamá,Panama (Local),2026-04-19,2026-04-22,3,390.62
+HMPP-11194,Hotel Modelo Python Panamá,Panama (Local),2026-04-20,2026-04-25,5,427.8
+HMPP-11195,Hotel Modelo Python Panamá,Panama (Local),2026-04-20,2026-05-09,19,511.16
+HMPP-11196,Hotel Modelo Python Panamá,Panama (Local),2026-04-20,2026-04-29,9,437.09
+HMPP-11197,Hotel Modelo Python Panamá,Panama (Local),2026-04-20,2026-04-30,10,481.02
+HMPP-11198,Hotel Modelo Python Panamá,Panama (Local),2026-04-20,2026-04-21,1,410.99
+HMPP-11199,Hotel Modelo Python Panamá,Panama (Local),2026-04-21,2026-04-30,9,472.54
+HMPP-11200,Hotel Modelo Python Panamá,Panama (Local),2026-04-21,2026-04-25,4,498.77
+HMPP-11201,Hotel Modelo Python Panamá,Panama (Local),2026-04-21,2026-04-24,3,481.85
+HMPP-11202,Hotel Modelo Python Panamá,Panama (Local),2026-04-22,2026-05-05,13,455.07
+HMPP-11203,Hotel Modelo Python Panamá,Panama (Local),2026-04-22,2026-04-23,1,437.45
+HMPP-11204,Hotel Modelo Python Panamá,Panama (Local),2026-04-22,2026-04-26,4,508.71
+HMPP-11205,Hotel Modelo Python Panamá,Panama (Local),2026-04-23,2026-05-11,18,517.88
+HMPP-11206,Hotel Modelo Python Panamá,Panama (Local),2026-04-23,2026-04-29,6,348.16
+HMPP-11207,Hotel Modelo Python Panamá,Panama (Local),2026-04-23,2026-05-10,17,491.32
+HMPP-11208,Hotel Modelo Python Panamá,USA,2026-04-24,2026-05-27,33,969.81
+HMPP-11209,Hotel Modelo Python Panamá,USA,2026-04-24,2026-05-29,35,953.7
+HMPP-11210,Hotel Modelo Python Panamá,Colombia,2026-04-24,2026-06-23,60,1395.03
+HMPP-11211,Hotel Modelo Python Panamá,Panama (Local),2026-04-24,2026-04-29,5,465.11
+HMPP-11212,Hotel Modelo Python Panamá,Panama (Local),2026-04-25,2026-04-28,3,493.34
+HMPP-11213,Hotel Modelo Python Panamá,Panama (Local),2026-04-25,2026-05-04,9,465.08
+HMPP-11214,Hotel Modelo Python Panamá,Panama (Local),2026-04-25,2026-05-12,17,512.56
+HMPP-11215,Hotel Modelo Python Panamá,Panama (Local),2026-04-25,2026-04-29,4,389.14
+HMPP-11216,Hotel Modelo Python Panamá,Panama (Local),2026-04-25,2026-05-14,19,386.79
+HMPP-11217,Hotel Modelo Python Panamá,Panama (Local),2026-04-25,2026-04-30,5,509.7
+HMPP-11218,Hotel Modelo Python Panamá,Panama (Local),2026-04-25,2026-05-06,11,441.2
+HMPP-11219,Hotel Modelo Python Panamá,Panama (Local),2026-04-26,2026-04-27,1,500.78
+HMPP-11220,Hotel Modelo Python Panamá,Colombia,2026-04-26,2026-06-04,39,1232.91
+HMPP-11221,Hotel Modelo Python Panamá,Panama (Local),2026-04-26,2026-05-06,10,457.35
+HMPP-11222,Hotel Modelo Python Panamá,Panama (Local),2026-04-26,2026-04-28,2,423.87
+HMPP-11223,Hotel Modelo Python Panamá,Panama (Local),2026-04-27,2026-05-05,8,458.29
+HMPP-11224,Hotel Modelo Python Panamá,Panama (Local),2026-04-27,2026-05-05,8,459.59
+HMPP-11225,Hotel Modelo Python Panamá,Panama (Local),2026-04-28,2026-05-10,12,509.21
+HMPP-11226,Hotel Modelo Python Panamá,Colombia,2026-04-28,2026-06-17,50,1176.32
+HMPP-11227,Hotel Modelo Python Panamá,Panama (Local),2026-04-28,2026-05-03,5,429.53
+HMPP-11228,Hotel Modelo Python Panamá,Panama (Local),2026-04-29,2026-05-02,3,433.86
+HMPP-11229,Hotel Modelo Python Panamá,Colombia,2026-04-29,2026-06-27,59,1140.89
+HMPP-11230,Hotel Modelo Python Panamá,Panama (Local),2026-04-29,2026-05-02,3,495.85
+HMPP-11231,Hotel Modelo Python Panamá,Panama (Local),2026-04-30,2026-05-03,3,467.68
+HMPP-11232,Hotel Modelo Python Panamá,Panama (Local),2026-05-02,2026-05-03,1,456.75
+HMPP-11233,Hotel Modelo Python Panamá,Colombia,2026-05-02,2026-06-09,38,1152.93
+HMPP-11234,Hotel Modelo Python Panamá,Panama (Local),2026-05-02,2026-05-20,18,449.52
+HMPP-11235,Hotel Modelo Python Panamá,Panama (Local),2026-05-02,2026-05-19,17,507.67
+HMPP-11236,Hotel Modelo Python Panamá,Panama (Local),2026-05-02,2026-05-06,4,512.51
+HMPP-11237,Hotel Modelo Python Panamá,USA,2026-05-02,2026-06-12,41,926.49
+HMPP-11238,Hotel Modelo Python Panamá,Colombia,2026-05-02,2026-06-05,34,1236.83
+HMPP-11239,Hotel Modelo Python Panamá,Panama (Local),2026-05-02,2026-05-10,8,477.38
+HMPP-11240,Hotel Modelo Python Panamá,Colombia,2026-05-03,2026-06-06,34,1190.37
+HMPP-11241,Hotel Modelo Python Panamá,Colombia,2026-05-03,2026-06-08,36,1211.64
+HMPP-11242,Hotel Modelo Python Panamá,Panama (Local),2026-05-04,2026-05-11,7,449.68
+HMPP-11243,Hotel Modelo Python Panamá,Panama (Local),2026-05-04,2026-05-06,2,517.23
+HMPP-11244,Hotel Modelo Python Panamá,Panama (Local),2026-05-04,2026-05-17,13,494.4
+HMPP-11245,Hotel Modelo Python Panamá,Panama (Local),2026-05-04,2026-05-22,18,400.3
+HMPP-11246,Hotel Modelo Python Panamá,Colombia,2026-05-05,2026-06-29,55,1150.75
+HMPP-11247,Hotel Modelo Python Panamá,Panama (Local),2026-05-05,2026-05-16,11,345.2
+HMPP-11248,Hotel Modelo Python Panamá,Panama (Local),2026-05-05,2026-05-23,18,477.24
+HMPP-11249,Hotel Modelo Python Panamá,Panama (Local),2026-05-05,2026-05-17,12,483.73
+HMPP-11250,Hotel Modelo Python Panamá,Panama (Local),2026-05-05,2026-05-16,11,342.75
+HMPP-11251,Hotel Modelo Python Panamá,USA,2026-05-06,2026-06-22,47,989.5
+HMPP-11252,Hotel Modelo Python Panamá,USA,2026-05-06,2026-07-01,56,1115.58
+HMPP-11253,Hotel Modelo Python Panamá,Panama (Local),2026-05-06,2026-05-16,10,396.78
+HMPP-11254,Hotel Modelo Python Panamá,Colombia,2026-05-07,2026-06-18,42,1316.53
+HMPP-11255,Hotel Modelo Python Panamá,Colombia,2026-05-07,2026-06-23,47,1096.54
+HMPP-11256,Hotel Modelo Python Panamá,Panama (Local),2026-05-08,2026-05-18,10,446.47
+HMPP-11257,Hotel Modelo Python Panamá,Panama (Local),2026-05-09,2026-05-20,11,403.65
+HMPP-11258,Hotel Modelo Python Panamá,Panama (Local),2026-05-09,2026-05-14,5,513.71
+HMPP-11259,Hotel Modelo Python Panamá,Colombia,2026-05-09,2026-06-30,52,1180.78
+HMPP-11260,Hotel Modelo Python Panamá,Colombia,2026-05-10,2026-06-10,31,1179.86
+HMPP-11261,Hotel Modelo Python Panamá,Panama (Local),2026-05-10,2026-05-18,8,506.01
+HMPP-11262,Hotel Modelo Python Panamá,Colombia,2026-05-10,2026-06-07,28,1115.33
+HMPP-11263,Hotel Modelo Python Panamá,Colombia,2026-05-10,2026-06-30,51,1123.62
+HMPP-11264,Hotel Modelo Python Panamá,Panama (Local),2026-05-11,2026-05-14,3,424.63
+HMPP-11265,Hotel Modelo Python Panamá,Colombia,2026-05-11,2026-06-13,33,1187.75
+HMPP-11266,Hotel Modelo Python Panamá,Panama (Local),2026-05-11,2026-05-18,7,441.4
+HMPP-11267,Hotel Modelo Python Panamá,Panama (Local),2026-05-11,2026-05-22,11,429.87
+HMPP-11268,Hotel Modelo Python Panamá,Colombia,2026-05-11,2026-06-23,43,1085.72
+HMPP-11269,Hotel Modelo Python Panamá,Panama (Local),2026-05-11,2026-05-25,14,516.6
+HMPP-11270,Hotel Modelo Python Panamá,Panama (Local),2026-05-12,2026-05-21,9,412.85
+HMPP-11271,Hotel Modelo Python Panamá,Panama (Local),2026-05-12,2026-05-22,10,484.98
+HMPP-11272,Hotel Modelo Python Panamá,Panama (Local),2026-05-12,2026-05-20,8,428.05
+HMPP-11273,Hotel Modelo Python Panamá,Panama (Local),2026-05-12,2026-05-18,6,333.22
+HMPP-11274,Hotel Modelo Python Panamá,Colombia,2026-05-13,2026-06-20,38,1084.14
+HMPP-11275,Hotel Modelo Python Panamá,USA,2026-05-13,2026-07-11,59,1057.7
+HMPP-11276,Hotel Modelo Python Panamá,Colombia,2026-05-14,2026-06-26,43,1073.45
+HMPP-11277,Hotel Modelo Python Panamá,Panama (Local),2026-05-15,2026-05-21,6,421.76
+HMPP-11278,Hotel Modelo Python Panamá,Colombia,2026-05-15,2026-06-21,37,1422.73
+HMPP-11279,Hotel Modelo Python Panamá,Panama (Local),2026-05-15,2026-05-26,11,453.0
+HMPP-11280,Hotel Modelo Python Panamá,Panama (Local),2026-05-15,2026-05-26,11,439.77
+HMPP-11281,Hotel Modelo Python Panamá,Colombia,2026-05-16,2026-07-06,51,1226.95
+HMPP-11282,Hotel Modelo Python Panamá,Panama (Local),2026-05-16,2026-05-29,13,398.55
+HMPP-11283,Hotel Modelo Python Panamá,Panama (Local),2026-05-17,2026-05-30,13,450.54
+HMPP-11284,Hotel Modelo Python Panamá,Colombia,2026-05-17,2026-06-18,32,1412.71
+HMPP-11285,Hotel Modelo Python Panamá,Panama (Local),2026-05-17,2026-06-05,19,436.46
+HMPP-11286,Hotel Modelo Python Panamá,Panama (Local),2026-05-18,2026-05-23,5,470.91
+HMPP-11287,Hotel Modelo Python Panamá,USA,2026-05-18,2026-07-06,49,1143.75
+HMPP-11288,Hotel Modelo Python Panamá,Colombia,2026-05-18,2026-07-06,49,1354.63
+HMPP-11289,Hotel Modelo Python Panamá,Colombia,2026-05-18,2026-06-23,36,1195.92
+HMPP-11290,Hotel Modelo Python Panamá,Panama (Local),2026-05-19,2026-06-02,14,425.98
+HMPP-11291,Hotel Modelo Python Panamá,Panama (Local),2026-05-19,2026-06-03,15,399.94
+HMPP-11292,Hotel Modelo Python Panamá,Panama (Local),2026-05-19,2026-05-26,7,426.16
+HMPP-11293,Hotel Modelo Python Panamá,Panama (Local),2026-05-20,2026-06-05,16,376.55
+HMPP-11294,Hotel Modelo Python Panamá,Panama (Local),2026-05-20,2026-05-24,4,372.83
+HMPP-11295,Hotel Modelo Python Panamá,Panama (Local),2026-05-21,2026-05-26,5,415.59
+HMPP-11296,Hotel Modelo Python Panamá,Colombia,2026-05-21,2026-06-15,25,907.89
+HMPP-11297,Hotel Modelo Python Panamá,Colombia,2026-05-21,2026-06-30,40,1124.22
+HMPP-11298,Hotel Modelo Python Panamá,Panama (Local),2026-05-21,2026-05-28,7,488.43
+HMPP-11299,Hotel Modelo Python Panamá,Panama (Local),2026-05-22,2026-06-02,11,499.75
+HMPP-11300,Hotel Modelo Python Panamá,Panama (Local),2026-05-22,2026-06-01,10,428.94
+HMPP-11301,Hotel Modelo Python Panamá,Panama (Local),2026-05-22,2026-06-03,12,401.5
+HMPP-11302,Hotel Modelo Python Panamá,Panama (Local),2026-05-23,2026-06-04,12,419.05
+HMPP-11303,Hotel Modelo Python Panamá,USA,2026-05-23,2026-07-09,47,828.64
+HMPP-11304,Hotel Modelo Python Panamá,USA,2026-05-23,2026-07-12,50,902.99
+HMPP-11305,Hotel Modelo Python Panamá,USA,2026-05-24,2026-06-24,31,1159.79
+HMPP-11306,Hotel Modelo Python Panamá,Panama (Local),2026-05-24,2026-06-05,12,453.95
+HMPP-11307,Hotel Modelo Python Panamá,Panama (Local),2026-05-24,2026-05-25,1,505.91
+HMPP-11308,Hotel Modelo Python Panamá,Panama (Local),2026-05-24,2026-06-04,11,531.75
+HMPP-11309,Hotel Modelo Python Panamá,Panama (Local),2026-05-24,2026-06-11,18,418.7
+HMPP-11310,Hotel Modelo Python Panamá,Panama (Local),2026-05-24,2026-06-08,15,439.68
+HMPP-11311,Hotel Modelo Python Panamá,USA,2026-05-25,2026-06-28,34,1087.28
+HMPP-11312,Hotel Modelo Python Panamá,Panama (Local),2026-05-25,2026-05-28,3,453.7
+HMPP-11313,Hotel Modelo Python Panamá,Colombia,2026-05-25,2026-06-20,26,1147.3
+HMPP-11314,Hotel Modelo Python Panamá,Panama (Local),2026-05-26,2026-06-04,9,446.69
+HMPP-11315,Hotel Modelo Python Panamá,Panama (Local),2026-05-27,2026-06-07,11,434.57
+HMPP-11316,Hotel Modelo Python Panamá,USA,2026-05-27,2026-06-21,25,974.23
+HMPP-11317,Hotel Modelo Python Panamá,Panama (Local),2026-05-27,2026-05-30,3,507.44
+HMPP-11318,Hotel Modelo Python Panamá,Panama (Local),2026-05-27,2026-06-01,5,456.82
+HMPP-11319,Hotel Modelo Python Panamá,Colombia,2026-05-27,2026-06-22,26,1026.02
+HMPP-11320,Hotel Modelo Python Panamá,Panama (Local),2026-05-27,2026-06-01,5,414.33
+HMPP-11321,Hotel Modelo Python Panamá,Panama (Local),2026-05-27,2026-06-03,7,484.68
+HMPP-11322,Hotel Modelo Python Panamá,Panama (Local),2026-05-28,2026-06-15,18,464.25
+HMPP-11323,Hotel Modelo Python Panamá,Colombia,2026-05-28,2026-06-25,28,1033.34
+HMPP-11324,Hotel Modelo Python Panamá,Panama (Local),2026-05-28,2026-06-13,16,481.64
+HMPP-11325,Hotel Modelo Python Panamá,Panama (Local),2026-05-28,2026-06-14,17,463.74
+HMPP-11326,Hotel Modelo Python Panamá,Panama (Local),2026-05-28,2026-06-01,4,464.53
+HMPP-11327,Hotel Modelo Python Panamá,Colombia,2026-05-28,2026-07-27,60,1275.42
+HMPP-11328,Hotel Modelo Python Panamá,Panama (Local),2026-05-29,2026-06-08,10,488.61
+HMPP-11329,Hotel Modelo Python Panamá,Panama (Local),2026-05-29,2026-06-17,19,414.47
+HMPP-11330,Hotel Modelo Python Panamá,Panama (Local),2026-05-29,2026-06-16,18,364.86
+HMPP-11331,Hotel Modelo Python Panamá,Panama (Local),2026-05-30,2026-06-08,9,515.04
+HMPP-11332,Hotel Modelo Python Panamá,Panama (Local),2026-05-30,2026-05-31,1,481.52
+HMPP-11333,Hotel Modelo Python Panamá,Colombia,2026-05-30,2026-06-29,30,1289.83
+HMPP-11334,Hotel Modelo Python Panamá,Panama (Local),2026-05-31,2026-06-06,6,425.04
+HMPP-11335,Hotel Modelo Python Panamá,Colombia,2026-06-01,2026-07-28,57,1305.23
+HMPP-11336,Hotel Modelo Python Panamá,Panama (Local),2026-06-01,2026-06-12,11,417.45
+HMPP-11337,Hotel Modelo Python Panamá,Panama (Local),2026-06-01,2026-06-13,12,383.32
+HMPP-11338,Hotel Modelo Python Panamá,Panama (Local),2026-06-02,2026-06-14,12,444.82
+HMPP-11339,Hotel Modelo Python Panamá,USA,2026-06-02,2026-07-30,58,943.26
+HMPP-11340,Hotel Modelo Python Panamá,Panama (Local),2026-06-02,2026-06-13,11,374.76
+HMPP-11341,Hotel Modelo Python Panamá,Panama (Local),2026-06-02,2026-06-15,13,473.37
+HMPP-11342,Hotel Modelo Python Panamá,Panama (Local),2026-06-02,2026-06-12,10,502.75
+HMPP-11343,Hotel Modelo Python Panamá,Panama (Local),2026-06-03,2026-06-12,9,412.13
+HMPP-11344,Hotel Modelo Python Panamá,Panama (Local),2026-06-03,2026-06-08,5,476.95
+HMPP-11345,Hotel Modelo Python Panamá,Panama (Local),2026-06-04,2026-06-16,12,471.38
+HMPP-11346,Hotel Modelo Python Panamá,Colombia,2026-06-04,2026-06-30,26,1212.29
+HMPP-11347,Hotel Modelo Python Panamá,Panama (Local),2026-06-04,2026-06-09,5,454.56
+HMPP-11348,Hotel Modelo Python Panamá,Panama (Local),2026-06-04,2026-06-07,3,401.77
+HMPP-11349,Hotel Modelo Python Panamá,Panama (Local),2026-06-04,2026-06-13,9,501.57
+HMPP-11350,Hotel Modelo Python Panamá,Panama (Local),2026-06-05,2026-06-13,8,456.94
+HMPP-11351,Hotel Modelo Python Panamá,Colombia,2026-06-05,2026-07-17,42,1015.51
+HMPP-11352,Hotel Modelo Python Panamá,Colombia,2026-06-05,2026-07-08,33,1002.19
+HMPP-11353,Hotel Modelo Python Panamá,Panama (Local),2026-06-05,2026-06-22,17,401.07
+HMPP-11354,Hotel Modelo Python Panamá,Panama (Local),2026-06-05,2026-06-09,4,426.26
+HMPP-11355,Hotel Modelo Python Panamá,Colombia,2026-06-06,2026-07-06,30,1061.78
+HMPP-11356,Hotel Modelo Python Panamá,Colombia,2026-06-06,2026-07-10,34,1312.19
+HMPP-11357,Hotel Modelo Python Panamá,Panama (Local),2026-06-06,2026-06-13,7,443.22
+HMPP-11358,Hotel Modelo Python Panamá,Panama (Local),2026-06-06,2026-06-08,2,496.56
+HMPP-11359,Hotel Modelo Python Panamá,Colombia,2026-06-06,2026-07-12,36,1318.7
+HMPP-11360,Hotel Modelo Python Panamá,Panama (Local),2026-06-06,2026-06-16,10,508.07
+HMPP-11361,Hotel Modelo Python Panamá,Panama (Local),2026-06-07,2026-06-19,12,437.5
+HMPP-11362,Hotel Modelo Python Panamá,Colombia,2026-06-07,2026-07-04,27,1211.19
+HMPP-11363,Hotel Modelo Python Panamá,Panama (Local),2026-06-07,2026-06-25,18,447.59
+HMPP-11364,Hotel Modelo Python Panamá,Panama (Local),2026-06-07,2026-06-08,1,439.08
+HMPP-11365,Hotel Modelo Python Panamá,USA,2026-06-07,2026-07-25,48,1046.54
+HMPP-11366,Hotel Modelo Python Panamá,Panama (Local),2026-06-08,2026-06-22,14,543.15
+HMPP-11367,Hotel Modelo Python Panamá,Colombia,2026-06-08,2026-07-04,26,1280.38
+HMPP-11368,Hotel Modelo Python Panamá,Panama (Local),2026-06-08,2026-06-14,6,487.84
+HMPP-11369,Hotel Modelo Python Panamá,Colombia,2026-06-08,2026-07-19,41,1387.89
+HMPP-11370,Hotel Modelo Python Panamá,Panama (Local),2026-06-08,2026-06-22,14,497.56
+HMPP-11371,Hotel Modelo Python Panamá,Panama (Local),2026-06-09,2026-06-28,19,420.25
+HMPP-11372,Hotel Modelo Python Panamá,Panama (Local),2026-06-09,2026-06-21,12,464.5
+HMPP-11373,Hotel Modelo Python Panamá,Panama (Local),2026-06-10,2026-06-25,15,411.53
+HMPP-11374,Hotel Modelo Python Panamá,Panama (Local),2026-06-11,2026-06-25,14,404.82
+HMPP-11375,Hotel Modelo Python Panamá,Colombia,2026-06-11,2026-07-29,48,1185.62
+HMPP-11376,Hotel Modelo Python Panamá,Panama (Local),2026-06-11,2026-06-20,9,419.78
+HMPP-11377,Hotel Modelo Python Panamá,USA,2026-06-11,2026-07-08,27,1090.68
+HMPP-11378,Hotel Modelo Python Panamá,Panama (Local),2026-06-11,2026-06-29,18,445.22
+HMPP-11379,Hotel Modelo Python Panamá,Panama (Local),2026-06-11,2026-06-17,6,394.14
+HMPP-11380,Hotel Modelo Python Panamá,Panama (Local),2026-06-12,2026-06-29,17,455.17
+HMPP-11381,Hotel Modelo Python Panamá,Panama (Local),2026-06-12,2026-07-01,19,456.09
+HMPP-11382,Hotel Modelo Python Panamá,Panama (Local),2026-06-12,2026-06-23,11,468.63
+HMPP-11383,Hotel Modelo Python Panamá,Panama (Local),2026-06-12,2026-06-27,15,409.53
+HMPP-11384,Hotel Modelo Python Panamá,USA,2026-06-13,2026-07-28,45,1157.59
+HMPP-11385,Hotel Modelo Python Panamá,Colombia,2026-06-13,2026-08-04,52,1311.12
+HMPP-11386,Hotel Modelo Python Panamá,Colombia,2026-06-13,2026-07-11,28,1177.23
+HMPP-11387,Hotel Modelo Python Panamá,Panama (Local),2026-06-13,2026-06-17,4,487.61
+HMPP-11388,Hotel Modelo Python Panamá,Panama (Local),2026-06-13,2026-06-25,12,392.48
+HMPP-11389,Hotel Modelo Python Panamá,Panama (Local),2026-06-14,2026-06-26,12,474.65
+HMPP-11390,Hotel Modelo Python Panamá,Colombia,2026-06-14,2026-07-23,39,1080.14
+HMPP-11391,Hotel Modelo Python Panamá,Panama (Local),2026-06-14,2026-06-27,13,502.76
+HMPP-11392,Hotel Modelo Python Panamá,Panama (Local),2026-06-14,2026-06-25,11,402.01
+HMPP-11393,Hotel Modelo Python Panamá,Panama (Local),2026-06-14,2026-06-17,3,463.47
+HMPP-11394,Hotel Modelo Python Panamá,Panama (Local),2026-06-14,2026-06-22,8,482.37
+HMPP-11395,Hotel Modelo Python Panamá,Panama (Local),2026-06-16,2026-06-26,10,484.05
+HMPP-11396,Hotel Modelo Python Panamá,Panama (Local),2026-06-16,2026-07-01,15,491.14
+HMPP-11397,Hotel Modelo Python Panamá,Panama (Local),2026-06-16,2026-07-05,19,488.5
+HMPP-11398,Hotel Modelo Python Panamá,Panama (Local),2026-06-17,2026-07-04,17,507.25
+HMPP-11399,Hotel Modelo Python Panamá,Panama (Local),2026-06-17,2026-06-25,8,376.2
+HMPP-11400,Hotel Modelo Python Panamá,Panama (Local),2026-06-17,2026-06-27,10,452.63
+HMPP-11401,Hotel Modelo Python Panamá,Panama (Local),2026-06-18,2026-06-26,8,488.34
+HMPP-11402,Hotel Modelo Python Panamá,Panama (Local),2026-06-18,2026-06-23,5,373.49
+HMPP-11403,Hotel Modelo Python Panamá,Panama (Local),2026-06-18,2026-07-05,17,450.99
+HMPP-11404,Hotel Modelo Python Panamá,Colombia,2026-06-18,2026-07-18,30,1080.52
+HMPP-11405,Hotel Modelo Python Panamá,Colombia,2026-06-18,2026-07-16,28,1256.09
+HMPP-11406,Hotel Modelo Python Panamá,Panama (Local),2026-06-19,2026-06-28,9,470.86
+HMPP-11407,Hotel Modelo Python Panamá,Panama (Local),2026-06-19,2026-07-04,15,446.53
+HMPP-11408,Hotel Modelo Python Panamá,Colombia,2026-06-19,2026-07-30,41,1101.71
+HMPP-11409,Hotel Modelo Python Panamá,Panama (Local),2026-06-20,2026-07-02,12,413.12
+HMPP-11410,Hotel Modelo Python Panamá,Panama (Local),2026-06-20,2026-06-27,7,522.54
+HMPP-11411,Hotel Modelo Python Panamá,Panama (Local),2026-06-20,2026-07-07,17,433.41
+HMPP-11412,Hotel Modelo Python Panamá,Colombia,2026-06-21,2026-07-23,32,1321.01
+HMPP-11413,Hotel Modelo Python Panamá,Colombia,2026-06-21,2026-07-30,39,1342.73
+HMPP-11414,Hotel Modelo Python Panamá,Panama (Local),2026-06-22,2026-07-05,13,443.49
+HMPP-11415,Hotel Modelo Python Panamá,Panama (Local),2026-06-22,2026-06-27,5,426.34
+HMPP-11416,Hotel Modelo Python Panamá,Panama (Local),2026-06-23,2026-07-01,8,476.81
+HMPP-11417,Hotel Modelo Python Panamá,Colombia,2026-06-23,2026-08-07,45,1221.7
+HMPP-11418,Hotel Modelo Python Panamá,Panama (Local),2026-06-23,2026-07-01,8,368.13
+HMPP-11419,Hotel Modelo Python Panamá,Panama (Local),2026-06-23,2026-07-11,18,404.25
+HMPP-11420,Hotel Modelo Python Panamá,Panama (Local),2026-06-23,2026-07-06,13,497.77
+HMPP-11421,Hotel Modelo Python Panamá,Panama (Local),2026-06-23,2026-07-03,10,329.81
+HMPP-11422,Hotel Modelo Python Panamá,USA,2026-06-24,2026-08-22,59,1026.81
+HMPP-11423,Hotel Modelo Python Panamá,Panama (Local),2026-06-24,2026-06-26,2,459.26
+HMPP-11424,Hotel Modelo Python Panamá,USA,2026-06-24,2026-07-23,29,1031.48
+HMPP-11425,Hotel Modelo Python Panamá,Panama (Local),2026-06-24,2026-06-29,5,404.28
+HMPP-11426,Hotel Modelo Python Panamá,Panama (Local),2026-06-24,2026-07-03,9,417.45
+HMPP-11427,Hotel Modelo Python Panamá,Panama (Local),2026-06-24,2026-07-02,8,436.88
+HMPP-11428,Hotel Modelo Python Panamá,Panama (Local),2026-06-24,2026-06-29,5,379.75
+HMPP-11429,Hotel Modelo Python Panamá,USA,2026-06-25,2026-07-20,25,953.69
+HMPP-11430,Hotel Modelo Python Panamá,Panama (Local),2026-06-25,2026-07-09,14,461.92
+HMPP-11431,Hotel Modelo Python Panamá,Panama (Local),2026-06-25,2026-07-06,11,477.46
+HMPP-11432,Hotel Modelo Python Panamá,Panama (Local),2026-06-25,2026-06-27,2,424.14
+HMPP-11433,Hotel Modelo Python Panamá,Panama (Local),2026-06-26,2026-07-02,6,408.74
+HMPP-11434,Hotel Modelo Python Panamá,Panama (Local),2026-06-26,2026-07-15,19,422.65
+HMPP-11435,Hotel Modelo Python Panamá,Panama (Local),2026-06-27,2026-07-10,13,327.2
+HMPP-11436,Hotel Modelo Python Panamá,Colombia,2026-06-28,2026-07-23,25,1172.95
+HMPP-11437,Hotel Modelo Python Panamá,Panama (Local),2026-06-28,2026-07-17,19,480.01
+HMPP-11438,Hotel Modelo Python Panamá,Panama (Local),2026-06-28,2026-07-09,11,462.91
+HMPP-11439,Hotel Modelo Python Panamá,Panama (Local),2026-06-28,2026-07-14,16,464.6
+HMPP-11440,Hotel Modelo Python Panamá,Panama (Local),2026-06-28,2026-07-17,19,508.41
+HMPP-11441,Hotel Modelo Python Panamá,Panama (Local),2026-06-28,2026-07-06,8,374.52
+HMPP-11442,Hotel Modelo Python Panamá,Panama (Local),2026-06-28,2026-06-30,2,382.33
+HMPP-11443,Hotel Modelo Python Panamá,Panama (Local),2026-06-28,2026-07-08,10,408.22
+HMPP-11444,Hotel Modelo Python Panamá,Panama (Local),2026-06-29,2026-07-06,7,401.6
+HMPP-11445,Hotel Modelo Python Panamá,Panama (Local),2026-06-29,2026-07-06,7,375.97
+HMPP-11446,Hotel Modelo Python Panamá,Panama (Local),2026-06-29,2026-07-15,16,470.89
+HMPP-11447,Hotel Modelo Python Panamá,Panama (Local),2026-06-30,2026-07-12,12,433.24
+HMPP-11448,Hotel Modelo Python Panamá,Panama (Local),2026-06-30,2026-07-04,4,465.38
+HMPP-11449,Hotel Modelo Python Panamá,Colombia,2026-07-01,2026-07-28,27,1189.09
+HMPP-11450,Hotel Modelo Python Panamá,Panama (Local),2026-07-01,2026-07-06,5,468.88
+HMPP-11451,Hotel Modelo Python Panamá,Panama (Local),2026-07-01,2026-07-02,1,415.52
+HMPP-11452,Hotel Modelo Python Panamá,Panama (Local),2026-07-01,2026-07-14,13,386.24
+HMPP-11453,Hotel Modelo Python Panamá,Panama (Local),2026-07-01,2026-07-02,1,476.94
+HMPP-11454,Hotel Modelo Python Panamá,Panama (Local),2026-07-01,2026-07-20,19,486.68
+HMPP-11455,Hotel Modelo Python Panamá,Panama (Local),2026-07-01,2026-07-06,5,486.45
+HMPP-11456,Hotel Modelo Python Panamá,Colombia,2026-07-01,2026-08-09,39,1224.68
+HMPP-11457,Hotel Modelo Python Panamá,Panama (Local),2026-07-02,2026-07-08,6,469.08
+HMPP-11458,Hotel Modelo Python Panamá,Panama (Local),2026-07-03,2026-07-20,17,515.15
+HMPP-11459,Hotel Modelo Python Panamá,Panama (Local),2026-07-03,2026-07-18,15,495.22
+HMPP-11460,Hotel Modelo Python Panamá,Panama (Local),2026-07-03,2026-07-10,7,489.91
+HMPP-11461,Hotel Modelo Python Panamá,Panama (Local),2026-07-03,2026-07-21,18,485.97
+HMPP-11462,Hotel Modelo Python Panamá,Panama (Local),2026-07-03,2026-07-13,10,440.71
+HMPP-11463,Hotel Modelo Python Panamá,Panama (Local),2026-07-04,2026-07-05,1,431.65
+HMPP-11464,Hotel Modelo Python Panamá,Panama (Local),2026-07-04,2026-07-05,1,453.69
+HMPP-11465,Hotel Modelo Python Panamá,Panama (Local),2026-07-04,2026-07-15,11,433.94
+HMPP-11466,Hotel Modelo Python Panamá,Panama (Local),2026-07-05,2026-07-12,7,445.44
+HMPP-11467,Hotel Modelo Python Panamá,Colombia,2026-07-05,2026-08-17,43,1192.36
+HMPP-11468,Hotel Modelo Python Panamá,Colombia,2026-07-05,2026-08-04,30,1143.3
+HMPP-11469,Hotel Modelo Python Panamá,Colombia,2026-07-06,2026-08-01,26,1270.83
+HMPP-11470,Hotel Modelo Python Panamá,USA,2026-07-08,2026-08-24,47,1169.27
+HMPP-11471,Hotel Modelo Python Panamá,Panama (Local),2026-07-08,2026-07-23,15,379.76
+HMPP-11472,Hotel Modelo Python Panamá,Panama (Local),2026-07-08,2026-07-12,4,445.82
+HMPP-11473,Hotel Modelo Python Panamá,Panama (Local),2026-07-08,2026-07-16,8,432.43
+HMPP-11474,Hotel Modelo Python Panamá,Colombia,2026-07-09,2026-08-31,53,1301.54
+HMPP-11475,Hotel Modelo Python Panamá,Panama (Local),2026-07-10,2026-07-28,18,540.42
+HMPP-11476,Hotel Modelo Python Panamá,Panama (Local),2026-07-10,2026-07-22,12,414.08
+HMPP-11477,Hotel Modelo Python Panamá,Panama (Local),2026-07-10,2026-07-12,2,462.28
+HMPP-11478,Hotel Modelo Python Panamá,Panama (Local),2026-07-10,2026-07-13,3,387.15
+HMPP-11479,Hotel Modelo Python Panamá,Panama (Local),2026-07-10,2026-07-25,15,494.92
+HMPP-11480,Hotel Modelo Python Panamá,Panama (Local),2026-07-10,2026-07-19,9,418.48
+HMPP-11481,Hotel Modelo Python Panamá,Panama (Local),2026-07-11,2026-07-30,19,440.0
+HMPP-11482,Hotel Modelo Python Panamá,Panama (Local),2026-07-11,2026-07-24,13,383.55
+HMPP-11483,Hotel Modelo Python Panamá,Panama (Local),2026-07-12,2026-07-23,11,446.86
+HMPP-11484,Hotel Modelo Python Panamá,Panama (Local),2026-07-13,2026-07-24,11,426.22
+HMPP-11485,Hotel Modelo Python Panamá,Panama (Local),2026-07-13,2026-07-23,10,437.32
+HMPP-11486,Hotel Modelo Python Panamá,Panama (Local),2026-07-13,2026-07-22,9,348.52
+HMPP-11487,Hotel Modelo Python Panamá,Panama (Local),2026-07-14,2026-07-29,15,478.18
+HMPP-11488,Hotel Modelo Python Panamá,Panama (Local),2026-07-14,2026-07-30,16,426.56
+HMPP-11489,Hotel Modelo Python Panamá,Colombia,2026-07-15,2026-09-13,60,1365.56
+HMPP-11490,Hotel Modelo Python Panamá,Panama (Local),2026-07-15,2026-07-20,5,458.54
+HMPP-11491,Hotel Modelo Python Panamá,Panama (Local),2026-07-15,2026-07-28,13,471.16
+HMPP-11492,Hotel Modelo Python Panamá,Panama (Local),2026-07-15,2026-07-27,12,446.78
+HMPP-11493,Hotel Modelo Python Panamá,Panama (Local),2026-07-15,2026-08-02,18,445.31
+HMPP-11494,Hotel Modelo Python Panamá,Panama (Local),2026-07-15,2026-07-25,10,464.21
+HMPP-11495,Hotel Modelo Python Panamá,Panama (Local),2026-07-16,2026-08-03,18,424.3
+HMPP-11496,Hotel Modelo Python Panamá,Panama (Local),2026-07-16,2026-08-04,19,492.29
+HMPP-11497,Hotel Modelo Python Panamá,Panama (Local),2026-07-16,2026-07-20,4,395.84
+HMPP-11498,Hotel Modelo Python Panamá,Panama (Local),2026-07-16,2026-07-26,10,383.86
+HMPP-11499,Hotel Modelo Python Panamá,Panama (Local),2026-07-17,2026-07-31,14,469.47
+HMPP-11500,Hotel Modelo Python Panamá,Panama (Local),2026-07-17,2026-08-03,17,453.39
+HMPP-11501,Hotel Modelo Python Panamá,Panama (Local),2026-07-17,2026-08-02,16,517.29
+HMPP-11502,Hotel Modelo Python Panamá,Colombia,2026-07-17,2026-08-16,30,1194.41
+HMPP-11503,Hotel Modelo Python Panamá,Panama (Local),2026-07-19,2026-08-04,16,350.23
+HMPP-11504,Hotel Modelo Python Panamá,Panama (Local),2026-07-19,2026-07-31,12,528.09
+HMPP-11505,Hotel Modelo Python Panamá,Panama (Local),2026-07-19,2026-08-03,15,463.79
+HMPP-11506,Hotel Modelo Python Panamá,Panama (Local),2026-07-19,2026-08-01,13,485.13
+HMPP-11507,Hotel Modelo Python Panamá,Panama (Local),2026-07-20,2026-07-31,11,440.84
+HMPP-11508,Hotel Modelo Python Panamá,Panama (Local),2026-07-20,2026-08-02,13,494.37
+HMPP-11509,Hotel Modelo Python Panamá,Panama (Local),2026-07-21,2026-07-22,1,432.5
+HMPP-11510,Hotel Modelo Python Panamá,Panama (Local),2026-07-21,2026-07-30,9,438.83
+HMPP-11511,Hotel Modelo Python Panamá,Colombia,2026-07-21,2026-08-18,28,1216.64
+HMPP-11512,Hotel Modelo Python Panamá,Panama (Local),2026-07-21,2026-08-03,13,492.76
+HMPP-11513,Hotel Modelo Python Panamá,Panama (Local),2026-07-22,2026-07-30,8,434.47
+HMPP-11514,Hotel Modelo Python Panamá,Panama (Local),2026-07-22,2026-07-25,3,434.37
+HMPP-11515,Hotel Modelo Python Panamá,Panama (Local),2026-07-22,2026-07-29,7,465.85
+HMPP-11516,Hotel Modelo Python Panamá,Panama (Local),2026-07-23,2026-08-06,14,546.89
+HMPP-11517,Hotel Modelo Python Panamá,Panama (Local),2026-07-23,2026-07-31,8,444.36
+HMPP-11518,Hotel Modelo Python Panamá,Panama (Local),2026-07-23,2026-08-07,15,463.75
+HMPP-11519,Hotel Modelo Python Panamá,Panama (Local),2026-07-23,2026-08-01,9,455.18
+HMPP-11520,Hotel Modelo Python Panamá,Panama (Local),2026-07-24,2026-07-28,4,381.19
+HMPP-11521,Hotel Modelo Python Panamá,Panama (Local),2026-07-25,2026-08-03,9,480.99
+HMPP-11522,Hotel Modelo Python Panamá,USA,2026-07-25,2026-08-30,36,903.59
+HMPP-11523,Hotel Modelo Python Panamá,Panama (Local),2026-07-26,2026-07-29,3,491.26
+HMPP-11524,Hotel Modelo Python Panamá,Panama (Local),2026-07-26,2026-07-28,2,434.44
+HMPP-11525,Hotel Modelo Python Panamá,Colombia,2026-07-26,2026-09-04,40,1221.55
+HMPP-11526,Hotel Modelo Python Panamá,Colombia,2026-07-27,2026-09-05,40,1239.53
+HMPP-11527,Hotel Modelo Python Panamá,Panama (Local),2026-07-28,2026-07-31,3,464.81
+HMPP-11528,Hotel Modelo Python Panamá,Panama (Local),2026-07-29,2026-08-15,17,433.88
+HMPP-11529,Hotel Modelo Python Panamá,Panama (Local),2026-07-29,2026-08-07,9,399.36
+HMPP-11530,Hotel Modelo Python Panamá,Panama (Local),2026-07-29,2026-08-04,6,512.61
+HMPP-11531,Hotel Modelo Python Panamá,Panama (Local),2026-07-30,2026-08-01,2,416.24
+HMPP-11532,Hotel Modelo Python Panamá,Panama (Local),2026-07-30,2026-08-13,14,465.02
+HMPP-11533,Hotel Modelo Python Panamá,Panama (Local),2026-07-30,2026-08-02,3,476.38
+HMPP-11534,Hotel Modelo Python Panamá,Panama (Local),2026-07-31,2026-08-09,9,436.76
+HMPP-11535,Hotel Modelo Python Panamá,Colombia,2026-07-31,2026-08-31,31,1219.36
+HMPP-11536,Hotel Modelo Python Panamá,Panama (Local),2026-07-31,2026-08-19,19,474.0
+HMPP-11537,Hotel Modelo Python Panamá,Panama (Local),2026-07-31,2026-08-01,1,417.83
+HMPP-11538,Hotel Modelo Python Panamá,Panama (Local),2026-07-31,2026-08-01,1,408.42
+HMPP-11539,Hotel Modelo Python Panamá,Panama (Local),2026-07-31,2026-08-07,7,355.33
+HMPP-11540,Hotel Modelo Python Panamá,Panama (Local),2026-07-31,2026-08-07,7,481.2
+HMPP-11541,Hotel Modelo Python Panamá,Panama (Local),2026-08-01,2026-08-06,5,441.4
+HMPP-11542,Hotel Modelo Python Panamá,USA,2026-08-01,2026-09-04,34,1231.68
+HMPP-11543,Hotel Modelo Python Panamá,Panama (Local),2026-08-01,2026-08-20,19,453.07
+HMPP-11544,Hotel Modelo Python Panamá,Colombia,2026-08-01,2026-09-10,40,1197.5
+HMPP-11545,Hotel Modelo Python Panamá,Panama (Local),2026-08-01,2026-08-16,15,421.26
+HMPP-11546,Hotel Modelo Python Panamá,USA,2026-08-01,2026-09-26,56,1199.98
+HMPP-11547,Hotel Modelo Python Panamá,Panama (Local),2026-08-02,2026-08-05,3,466.77
+HMPP-11548,Hotel Modelo Python Panamá,Panama (Local),2026-08-02,2026-08-04,2,427.06
+HMPP-11549,Hotel Modelo Python Panamá,Panama (Local),2026-08-03,2026-08-18,15,517.46
+HMPP-11550,Hotel Modelo Python Panamá,Colombia,2026-08-03,2026-09-22,50,1172.94
+HMPP-11551,Hotel Modelo Python Panamá,Panama (Local),2026-08-03,2026-08-07,4,461.34
+HMPP-11552,Hotel Modelo Python Panamá,Panama (Local),2026-08-03,2026-08-15,12,531.77
+HMPP-11553,Hotel Modelo Python Panamá,Panama (Local),2026-08-03,2026-08-12,9,494.75
+HMPP-11554,Hotel Modelo Python Panamá,Panama (Local),2026-08-03,2026-08-04,1,519.68
+HMPP-11555,Hotel Modelo Python Panamá,Panama (Local),2026-08-03,2026-08-13,10,404.04
+HMPP-11556,Hotel Modelo Python Panamá,Panama (Local),2026-08-04,2026-08-08,4,504.89
+HMPP-11557,Hotel Modelo Python Panamá,Colombia,2026-08-05,2026-09-09,35,1127.73
+HMPP-11558,Hotel Modelo Python Panamá,Colombia,2026-08-05,2026-09-03,29,1197.38
+HMPP-11559,Hotel Modelo Python Panamá,Panama (Local),2026-08-05,2026-08-19,14,478.4
+HMPP-11560,Hotel Modelo Python Panamá,Panama (Local),2026-08-05,2026-08-15,10,425.66
+HMPP-11561,Hotel Modelo Python Panamá,Panama (Local),2026-08-06,2026-08-08,2,450.69
+HMPP-11562,Hotel Modelo Python Panamá,Panama (Local),2026-08-06,2026-08-18,12,411.28
+HMPP-11563,Hotel Modelo Python Panamá,Panama (Local),2026-08-07,2026-08-22,15,404.02
+HMPP-11564,Hotel Modelo Python Panamá,Colombia,2026-08-08,2026-09-21,44,1168.39
+HMPP-11565,Hotel Modelo Python Panamá,Panama (Local),2026-08-08,2026-08-11,3,440.44
+HMPP-11566,Hotel Modelo Python Panamá,Panama (Local),2026-08-08,2026-08-22,14,462.58
+HMPP-11567,Hotel Modelo Python Panamá,Panama (Local),2026-08-09,2026-08-14,5,405.61
+HMPP-11568,Hotel Modelo Python Panamá,Panama (Local),2026-08-09,2026-08-26,17,564.46
+HMPP-11569,Hotel Modelo Python Panamá,Colombia,2026-08-09,2026-09-19,41,1141.56
+HMPP-11570,Hotel Modelo Python Panamá,Panama (Local),2026-08-09,2026-08-17,8,504.21
+HMPP-11571,Hotel Modelo Python Panamá,Panama (Local),2026-08-09,2026-08-17,8,486.51
+HMPP-11572,Hotel Modelo Python Panamá,Panama (Local),2026-08-09,2026-08-23,14,507.44
+HMPP-11573,Hotel Modelo Python Panamá,Panama (Local),2026-08-10,2026-08-19,9,416.57
+HMPP-11574,Hotel Modelo Python Panamá,Panama (Local),2026-08-10,2026-08-23,13,438.88
+HMPP-11575,Hotel Modelo Python Panamá,Panama (Local),2026-08-10,2026-08-14,4,443.03
+HMPP-11576,Hotel Modelo Python Panamá,Panama (Local),2026-08-10,2026-08-29,19,436.17
+HMPP-11577,Hotel Modelo Python Panamá,Panama (Local),2026-08-10,2026-08-21,11,465.32
+HMPP-11578,Hotel Modelo Python Panamá,Panama (Local),2026-08-11,2026-08-19,8,481.75
+HMPP-11579,Hotel Modelo Python Panamá,Panama (Local),2026-08-11,2026-08-30,19,483.44
+HMPP-11580,Hotel Modelo Python Panamá,Panama (Local),2026-08-12,2026-08-16,4,385.47
+HMPP-11581,Hotel Modelo Python Panamá,Panama (Local),2026-08-12,2026-08-22,10,401.49
+HMPP-11582,Hotel Modelo Python Panamá,Panama (Local),2026-08-12,2026-08-25,13,421.26
+HMPP-11583,Hotel Modelo Python Panamá,Panama (Local),2026-08-13,2026-08-27,14,394.06
+HMPP-11584,Hotel Modelo Python Panamá,Panama (Local),2026-08-14,2026-08-27,13,464.81
+HMPP-11585,Hotel Modelo Python Panamá,Panama (Local),2026-08-14,2026-08-20,6,525.94
+HMPP-11586,Hotel Modelo Python Panamá,Panama (Local),2026-08-14,2026-08-18,4,411.93
+HMPP-11587,Hotel Modelo Python Panamá,Panama (Local),2026-08-14,2026-08-20,6,494.38
+HMPP-11588,Hotel Modelo Python Panamá,Panama (Local),2026-08-15,2026-08-27,12,474.7
+HMPP-11589,Hotel Modelo Python Panamá,Colombia,2026-08-15,2026-10-11,57,1133.54
+HMPP-11590,Hotel Modelo Python Panamá,Panama (Local),2026-08-15,2026-08-18,3,444.3
+HMPP-11591,Hotel Modelo Python Panamá,Panama (Local),2026-08-15,2026-08-18,3,386.93
+HMPP-11592,Hotel Modelo Python Panamá,Panama (Local),2026-08-16,2026-08-20,4,518.35
+HMPP-11593,Hotel Modelo Python Panamá,Panama (Local),2026-08-16,2026-08-28,12,468.24
+HMPP-11594,Hotel Modelo Python Panamá,Panama (Local),2026-08-16,2026-08-31,15,412.35
+HMPP-11595,Hotel Modelo Python Panamá,Panama (Local),2026-08-16,2026-08-20,4,427.81
+HMPP-11596,Hotel Modelo Python Panamá,Panama (Local),2026-08-17,2026-08-25,8,397.68
+HMPP-11597,Hotel Modelo Python Panamá,Panama (Local),2026-08-17,2026-09-01,15,417.82
+HMPP-11598,Hotel Modelo Python Panamá,Panama (Local),2026-08-18,2026-08-31,13,498.06
+HMPP-11599,Hotel Modelo Python Panamá,Panama (Local),2026-08-19,2026-08-31,12,430.25
+HMPP-11600,Hotel Modelo Python Panamá,Panama (Local),2026-08-19,2026-09-05,17,443.57
+HMPP-11601,Hotel Modelo Python Panamá,Panama (Local),2026-08-19,2026-09-05,17,398.27
+HMPP-11602,Hotel Modelo Python Panamá,USA,2026-08-19,2026-09-29,41,1102.72
+HMPP-11603,Hotel Modelo Python Panamá,Panama (Local),2026-08-19,2026-08-21,2,417.91
+HMPP-11604,Hotel Modelo Python Panamá,Panama (Local),2026-08-20,2026-09-01,12,417.27
+HMPP-11605,Hotel Modelo Python Panamá,Panama (Local),2026-08-20,2026-09-08,19,422.17
+HMPP-11606,Hotel Modelo Python Panamá,Panama (Local),2026-08-22,2026-09-08,17,458.59
+HMPP-11607,Hotel Modelo Python Panamá,Colombia,2026-08-22,2026-10-05,44,1184.9
+HMPP-11608,Hotel Modelo Python Panamá,Colombia,2026-08-23,2026-10-22,60,1063.47
+HMPP-11609,Hotel Modelo Python Panamá,Panama (Local),2026-08-23,2026-08-28,5,479.2
+HMPP-11610,Hotel Modelo Python Panamá,Panama (Local),2026-08-23,2026-08-26,3,349.05
+HMPP-11611,Hotel Modelo Python Panamá,Panama (Local),2026-08-23,2026-09-07,15,491.48
+HMPP-11612,Hotel Modelo Python Panamá,Panama (Local),2026-08-24,2026-09-10,17,427.15
+HMPP-11613,Hotel Modelo Python Panamá,Panama (Local),2026-08-24,2026-08-25,1,535.44
+HMPP-11614,Hotel Modelo Python Panamá,Panama (Local),2026-08-25,2026-09-02,8,447.88
+HMPP-11615,Hotel Modelo Python Panamá,Panama (Local),2026-08-25,2026-09-09,15,530.82
+HMPP-11616,Hotel Modelo Python Panamá,Panama (Local),2026-08-25,2026-09-11,17,501.81
+HMPP-11617,Hotel Modelo Python Panamá,Colombia,2026-08-26,2026-10-04,39,1133.59
+HMPP-11618,Hotel Modelo Python Panamá,Panama (Local),2026-08-27,2026-09-08,12,433.34
+HMPP-11619,Hotel Modelo Python Panamá,Panama (Local),2026-08-28,2026-09-13,16,482.52
+HMPP-11620,Hotel Modelo Python Panamá,Panama (Local),2026-08-29,2026-09-01,3,504.62
+HMPP-11621,Hotel Modelo Python Panamá,Panama (Local),2026-08-29,2026-09-15,17,562.07
+HMPP-11622,Hotel Modelo Python Panamá,Colombia,2026-08-29,2026-10-04,36,1371.44
+HMPP-11623,Hotel Modelo Python Panamá,Panama (Local),2026-08-29,2026-09-17,19,456.38
+HMPP-11624,Hotel Modelo Python Panamá,Colombia,2026-08-30,2026-10-04,35,1078.5
+HMPP-11625,Hotel Modelo Python Panamá,Panama (Local),2026-08-30,2026-09-04,5,429.8
+HMPP-11626,Hotel Modelo Python Panamá,Panama (Local),2026-08-31,2026-09-13,13,453.65
+HMPP-11627,Hotel Modelo Python Panamá,Panama (Local),2026-08-31,2026-09-05,5,459.4
+HMPP-11628,Hotel Modelo Python Panamá,Panama (Local),2026-09-01,2026-09-18,17,412.72
+HMPP-11629,Hotel Modelo Python Panamá,Panama (Local),2026-09-01,2026-09-20,19,379.64
+HMPP-11630,Hotel Modelo Python Panamá,Colombia,2026-09-01,2026-10-12,41,1180.15
+HMPP-11631,Hotel Modelo Python Panamá,Panama (Local),2026-09-02,2026-09-05,3,418.98
+HMPP-11632,Hotel Modelo Python Panamá,Panama (Local),2026-09-02,2026-09-14,12,412.13
+HMPP-11633,Hotel Modelo Python Panamá,Colombia,2026-09-02,2026-10-09,37,1129.24
+HMPP-11634,Hotel Modelo Python Panamá,Panama (Local),2026-09-03,2026-09-06,3,414.56
+HMPP-11635,Hotel Modelo Python Panamá,USA,2026-09-03,2026-10-06,33,1069.24
+HMPP-11636,Hotel Modelo Python Panamá,Panama (Local),2026-09-03,2026-09-18,15,494.16
+HMPP-11637,Hotel Modelo Python Panamá,Panama (Local),2026-09-04,2026-09-16,12,448.18
+HMPP-11638,Hotel Modelo Python Panamá,USA,2026-09-04,2026-10-12,38,1026.31
+HMPP-11639,Hotel Modelo Python Panamá,Colombia,2026-09-04,2026-10-17,43,1232.54
+HMPP-11640,Hotel Modelo Python Panamá,Panama (Local),2026-09-04,2026-09-19,15,443.8
+HMPP-11641,Hotel Modelo Python Panamá,Panama (Local),2026-09-05,2026-09-11,6,526.6
+HMPP-11642,Hotel Modelo Python Panamá,Panama (Local),2026-09-05,2026-09-20,15,535.17
+HMPP-11643,Hotel Modelo Python Panamá,Panama (Local),2026-09-05,2026-09-16,11,422.38
+HMPP-11644,Hotel Modelo Python Panamá,Panama (Local),2026-09-06,2026-09-07,1,444.77
+HMPP-11645,Hotel Modelo Python Panamá,Panama (Local),2026-09-06,2026-09-19,13,388.72
+HMPP-11646,Hotel Modelo Python Panamá,Colombia,2026-09-06,2026-10-22,46,1185.72
+HMPP-11647,Hotel Modelo Python Panamá,Panama (Local),2026-09-06,2026-09-10,4,378.16
+HMPP-11648,Hotel Modelo Python Panamá,Panama (Local),2026-09-06,2026-09-22,16,450.58
+HMPP-11649,Hotel Modelo Python Panamá,Panama (Local),2026-09-07,2026-09-15,8,469.1
+HMPP-11650,Hotel Modelo Python Panamá,Panama (Local),2026-09-07,2026-09-12,5,498.75
+HMPP-11651,Hotel Modelo Python Panamá,Panama (Local),2026-09-07,2026-09-24,17,456.43
+HMPP-11652,Hotel Modelo Python Panamá,Panama (Local),2026-09-08,2026-09-10,2,535.09
+HMPP-11653,Hotel Modelo Python Panamá,Panama (Local),2026-09-08,2026-09-24,16,488.23
+HMPP-11654,Hotel Modelo Python Panamá,USA,2026-09-08,2026-10-21,43,904.62
+HMPP-11655,Hotel Modelo Python Panamá,Panama (Local),2026-09-08,2026-09-18,10,430.98
+HMPP-11656,Hotel Modelo Python Panamá,Panama (Local),2026-09-08,2026-09-17,9,473.48
+HMPP-11657,Hotel Modelo Python Panamá,Panama (Local),2026-09-08,2026-09-25,17,373.07
+HMPP-11658,Hotel Modelo Python Panamá,Panama (Local),2026-09-09,2026-09-24,15,424.93
+HMPP-11659,Hotel Modelo Python Panamá,Panama (Local),2026-09-09,2026-09-25,16,471.4
+HMPP-11660,Hotel Modelo Python Panamá,Colombia,2026-09-09,2026-10-20,41,947.32
+HMPP-11661,Hotel Modelo Python Panamá,Panama (Local),2026-09-09,2026-09-27,18,485.83
+HMPP-11662,Hotel Modelo Python Panamá,Colombia,2026-09-09,2026-10-06,27,1213.95
+HMPP-11663,Hotel Modelo Python Panamá,Panama (Local),2026-09-09,2026-09-15,6,371.41
+HMPP-11664,Hotel Modelo Python Panamá,Panama (Local),2026-09-10,2026-09-12,2,520.79
+HMPP-11665,Hotel Modelo Python Panamá,Panama (Local),2026-09-10,2026-09-22,12,411.32
+HMPP-11666,Hotel Modelo Python Panamá,Panama (Local),2026-09-10,2026-09-15,5,427.5
+HMPP-11667,Hotel Modelo Python Panamá,Panama (Local),2026-09-10,2026-09-21,11,549.44
+HMPP-11668,Hotel Modelo Python Panamá,Panama (Local),2026-09-11,2026-09-15,4,558.14
+HMPP-11669,Hotel Modelo Python Panamá,Panama (Local),2026-09-12,2026-09-25,13,492.69
+HMPP-11670,Hotel Modelo Python Panamá,Panama (Local),2026-09-12,2026-09-24,12,432.65
+HMPP-11671,Hotel Modelo Python Panamá,Panama (Local),2026-09-12,2026-09-23,11,421.83
+HMPP-11672,Hotel Modelo Python Panamá,Colombia,2026-09-12,2026-10-21,39,1243.77
+HMPP-11673,Hotel Modelo Python Panamá,Panama (Local),2026-09-12,2026-09-24,12,468.62
+HMPP-11674,Hotel Modelo Python Panamá,Panama (Local),2026-09-12,2026-09-17,5,453.43
+HMPP-11675,Hotel Modelo Python Panamá,Panama (Local),2026-09-13,2026-10-02,19,433.17
+HMPP-11676,Hotel Modelo Python Panamá,Panama (Local),2026-09-13,2026-09-24,11,470.58
+HMPP-11677,Hotel Modelo Python Panamá,Colombia,2026-09-13,2026-10-12,29,1198.15
+HMPP-11678,Hotel Modelo Python Panamá,Panama (Local),2026-09-14,2026-10-02,18,444.81
+HMPP-11679,Hotel Modelo Python Panamá,Panama (Local),2026-09-14,2026-09-21,7,528.13
+HMPP-11680,Hotel Modelo Python Panamá,Panama (Local),2026-09-15,2026-09-23,8,435.06
+HMPP-11681,Hotel Modelo Python Panamá,Panama (Local),2026-09-15,2026-09-20,5,453.42
+HMPP-11682,Hotel Modelo Python Panamá,Panama (Local),2026-09-16,2026-10-03,17,300.12
+HMPP-11683,Hotel Modelo Python Panamá,USA,2026-09-17,2026-10-20,33,1159.44
+HMPP-11684,Hotel Modelo Python Panamá,Colombia,2026-09-17,2026-10-14,27,1099.85
+HMPP-11685,Hotel Modelo Python Panamá,Panama (Local),2026-09-17,2026-10-01,14,473.5
+HMPP-11686,Hotel Modelo Python Panamá,Panama (Local),2026-09-18,2026-10-07,19,474.8
+HMPP-11687,Hotel Modelo Python Panamá,Panama (Local),2026-09-18,2026-09-21,3,403.35
+HMPP-11688,Hotel Modelo Python Panamá,Panama (Local),2026-09-18,2026-09-24,6,491.69
+HMPP-11689,Hotel Modelo Python Panamá,Panama (Local),2026-09-19,2026-10-06,17,444.83
+HMPP-11690,Hotel Modelo Python Panamá,USA,2026-09-19,2026-10-18,29,1136.1
+HMPP-11691,Hotel Modelo Python Panamá,Panama (Local),2026-09-20,2026-10-06,16,397.11
+HMPP-11692,Hotel Modelo Python Panamá,Panama (Local),2026-09-21,2026-10-08,17,397.19
+HMPP-11693,Hotel Modelo Python Panamá,Panama (Local),2026-09-21,2026-10-10,19,517.64
+HMPP-11694,Hotel Modelo Python Panamá,Panama (Local),2026-09-21,2026-10-04,13,422.84
+HMPP-11695,Hotel Modelo Python Panamá,Panama (Local),2026-09-21,2026-10-06,15,477.85
+HMPP-11696,Hotel Modelo Python Panamá,Panama (Local),2026-09-21,2026-10-02,11,527.08
+HMPP-11697,Hotel Modelo Python Panamá,Panama (Local),2026-09-22,2026-10-06,14,517.38
+HMPP-11698,Hotel Modelo Python Panamá,Panama (Local),2026-09-22,2026-09-28,6,512.85
+HMPP-11699,Hotel Modelo Python Panamá,Panama (Local),2026-09-23,2026-10-12,19,420.04
+HMPP-11700,Hotel Modelo Python Panamá,Panama (Local),2026-09-23,2026-09-27,4,516.86
+HMPP-11701,Hotel Modelo Python Panamá,Panama (Local),2026-09-23,2026-10-07,14,423.91
+HMPP-11702,Hotel Modelo Python Panamá,Panama (Local),2026-09-24,2026-10-08,14,385.7
+HMPP-11703,Hotel Modelo Python Panamá,Panama (Local),2026-09-25,2026-09-27,2,503.53
+HMPP-11704,Hotel Modelo Python Panamá,Panama (Local),2026-09-25,2026-10-02,7,383.47
+HMPP-11705,Hotel Modelo Python Panamá,Colombia,2026-09-26,2026-10-23,27,1177.84
+HMPP-11706,Hotel Modelo Python Panamá,Panama (Local),2026-09-26,2026-10-06,10,426.35
+HMPP-11707,Hotel Modelo Python Panamá,Panama (Local),2026-09-27,2026-10-07,10,494.53
+HMPP-11708,Hotel Modelo Python Panamá,Panama (Local),2026-09-27,2026-10-06,9,434.81
+HMPP-11709,Hotel Modelo Python Panamá,Panama (Local),2026-09-27,2026-10-16,19,479.85
+HMPP-11710,Hotel Modelo Python Panamá,Panama (Local),2026-09-28,2026-10-04,6,446.24
+HMPP-11711,Hotel Modelo Python Panamá,Panama (Local),2026-09-28,2026-10-10,12,489.61
+HMPP-11712,Hotel Modelo Python Panamá,Panama (Local),2026-09-28,2026-10-14,16,385.84
+HMPP-11713,Hotel Modelo Python Panamá,Panama (Local),2026-09-28,2026-10-01,3,428.54
+HMPP-11714,Hotel Modelo Python Panamá,Panama (Local),2026-09-28,2026-10-06,8,379.4
+HMPP-11715,Hotel Modelo Python Panamá,Panama (Local),2026-09-29,2026-10-16,17,448.58
+HMPP-11716,Hotel Modelo Python Panamá,Panama (Local),2026-09-30,2026-10-04,4,536.48
+HMPP-11717,Hotel Modelo Python Panamá,Panama (Local),2026-10-01,2026-10-16,15,367.1
+HMPP-11718,Hotel Modelo Python Panamá,Panama (Local),2026-10-01,2026-10-03,2,408.82
+HMPP-11719,Hotel Modelo Python Panamá,Panama (Local),2026-10-02,2026-10-18,16,427.02
+HMPP-11720,Hotel Modelo Python Panamá,Panama (Local),2026-10-02,2026-10-04,2,528.8
+HMPP-11721,Hotel Modelo Python Panamá,Panama (Local),2026-10-02,2026-10-13,11,436.63
+HMPP-11722,Hotel Modelo Python Panamá,Panama (Local),2026-10-03,2026-10-05,2,514.6
+HMPP-11723,Hotel Modelo Python Panamá,Panama (Local),2026-10-03,2026-10-09,6,511.21
+HMPP-11724,Hotel Modelo Python Panamá,Panama (Local),2026-10-03,2026-10-06,3,471.51
+HMPP-11725,Hotel Modelo Python Panamá,Panama (Local),2026-10-03,2026-10-06,3,433.08
+HMPP-11726,Hotel Modelo Python Panamá,Panama (Local),2026-10-03,2026-10-22,19,445.85
+HMPP-11727,Hotel Modelo Python Panamá,Panama (Local),2026-10-04,2026-10-06,2,513.9
+HMPP-11728,Hotel Modelo Python Panamá,Panama (Local),2026-10-04,2026-10-16,12,505.07
+HMPP-11729,Hotel Modelo Python Panamá,Panama (Local),2026-10-04,2026-10-16,12,426.28
+HMPP-11730,Hotel Modelo Python Panamá,Panama (Local),2026-10-05,2026-10-06,1,417.2
+HMPP-11731,Hotel Modelo Python Panamá,Panama (Local),2026-10-06,2026-10-16,10,418.69
+HMPP-11732,Hotel Modelo Python Panamá,Panama (Local),2026-10-06,2026-10-22,16,490.78
+HMPP-11733,Hotel Modelo Python Panamá,Panama (Local),2026-10-06,2026-10-09,3,484.88
+HMPP-11734,Hotel Modelo Python Panamá,Panama (Local),2026-10-08,2026-10-18,10,494.1
+HMPP-11735,Hotel Modelo Python Panamá,Panama (Local),2026-10-08,2026-10-14,6,420.86
+HMPP-11736,Hotel Modelo Python Panamá,Panama (Local),2026-10-09,2026-10-16,7,494.12
+HMPP-11737,Hotel Modelo Python Panamá,Panama (Local),2026-10-11,2026-10-15,4,499.64
+HMPP-11738,Hotel Modelo Python Panamá,Panama (Local),2026-10-11,2026-10-15,4,411.81
+HMPP-11739,Hotel Modelo Python Panamá,Panama (Local),2026-10-11,2026-10-16,5,420.18
+HMPP-11740,Hotel Modelo Python Panamá,Panama (Local),2026-10-12,2026-10-13,1,449.62
+HMPP-11741,Hotel Modelo Python Panamá,Panama (Local),2026-10-12,2026-10-15,3,427.29
+HMPP-11742,Hotel Modelo Python Panamá,Panama (Local),2026-10-12,2026-10-16,4,415.41
+HMPP-11743,Hotel Modelo Python Panamá,Panama (Local),2026-10-13,2026-10-16,3,512.76
+HMPP-11744,Hotel Modelo Python Panamá,Panama (Local),2026-10-13,2026-10-19,6,501.02
+HMPP-11745,Hotel Modelo Python Panamá,Panama (Local),2026-10-13,2026-10-22,9,450.6
+HMPP-11746,Hotel Modelo Python Panamá,Panama (Local),2026-10-14,2026-10-16,2,513.87
+HMPP-11747,Hotel Modelo Python Panamá,Panama (Local),2026-10-14,2026-10-18,4,570.3
+HMPP-11748,Hotel Modelo Python Panamá,Panama (Local),2026-10-14,2026-10-23,9,498.5
+HMPP-11749,Hotel Modelo Python Panamá,Panama (Local),2026-10-15,2026-10-21,6,433.83
+HMPP-11750,Hotel Modelo Python Panamá,Panama (Local),2026-10-15,2026-10-18,3,462.04
+HMPP-11751,Hotel Modelo Python Panamá,Panama (Local),2026-10-20,2026-10-21,1,475.29
+HMPP-11752,Hotel Modelo Python Panamá,Panama (Local),2026-10-21,2026-10-22,1,469.54

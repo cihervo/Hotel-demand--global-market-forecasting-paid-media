@@ -1,0 +1,4 @@
+source_market,Historical_Revenue_USD,Avg_Ticket_ADR_USD,Mean_Booking_Window_Days,P25_Lead_Time_Days,P75_Lead_Time_Days,Annual_Budget_USD,Target_Conversions_Bookings,Max_Target_CPA_USD
+Colombia,249599.92,1200.0,41.79,33.0,51.0,24974.98,208.0,120.07
+Panama (Local),649799.88,450.0,10.06,5.0,15.0,65019.01,1444.0,45.03
+USA,99999.97,1000.0,42.38,33.0,52.0,10006.0,100.0,100.06
